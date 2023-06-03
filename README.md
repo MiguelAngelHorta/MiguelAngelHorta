@@ -2,7 +2,7 @@
 - 👀 I’m interested in informationation security governance risk & compliance automation
 - 🌱 I’m currently learning on how to optimize efficiency related to infosec processes
 - 💞️ I’m looking to collaborate on functions to automate tasks in excel, appscripts, python etc.
-- 📫 Reach me via email: miguelangelhorta1994@gmail.com
+- 📫 Reach me via email: miguelhorta408@gmail.com
 
 <!---
 MiguelAngelHorta/MiguelAngelHorta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
