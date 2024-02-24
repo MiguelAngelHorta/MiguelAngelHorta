@@ -1,5 +1,4 @@
 # About Me
-123
 - 👋 Hi, I’m @MiguelAngelHorta
 - 👀 I’m interested in information security governance risk & compliance by leveraging automation and data engineering
 - 🧘 My focus lies in crafting robust systems that manage security reporting, contributing to a resilient and proactive security posture. 
@@ -9,8 +8,8 @@
 - 📫 Reach me via email: miguelhorta408@gmail.com
 
 ## Notes on my projects
-- Item 1: 11
-- Item 2
+- [Main Branch](https://github.com/yourusername/yourrepository/tree/main)
+- [GRC Assessment Automation Branch](https://github.com/MiguelAngelHorta/MiguelAngelHorta/GRC-Assessment-Automation)
   - Subitem 1
   - Subitem 2
 
