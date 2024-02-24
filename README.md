@@ -9,7 +9,7 @@
 
 ## Notes on my projects
 - [Main Branch](https://github.com/yourusername/yourrepository/tree/main)
-- [GRC Assessment Automation Branch](https://github.com/MiguelAngelHorta/MiguelAngelHorta/GRC-Assessment-Automation)
+  - [GRC Assessment Automation Branch]([https://github.com/MiguelAngelHorta/MiguelAngelHorta/GRC-Assessment-Automation](https://github.com/MiguelAngelHorta/MiguelAngelHorta/tree/GRC-Assessment-Automation))
   - Subitem 1
   - Subitem 2
 
