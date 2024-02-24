@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @MiguelAngelHorta
 - 👀 I’m interested in information security governance risk & compliance automation
-    ![image](https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/11d7c083-4d98-4403-bf7e-9ceb59d863cd)
-
 - 🌱 I’m currently learning how to optimize efficiency related to infosec processes
 - 💞️ I’m looking to collaborate on methods to automate repetitive tasks
+- ☁️ Lately, my curiosity has been captivated by cloud technologies, application building, and the art of configuring workflows. I find satisfaction in automating processes, with my experience with SQL, Javascript, and Advanced Excel formulas.
 - 📫 Reach me via email: miguelhorta408@gmail.com
 
 <!---
