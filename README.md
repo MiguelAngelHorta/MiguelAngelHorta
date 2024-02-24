@@ -8,7 +8,7 @@
 - 📫 Reach me via email: miguelhorta408@gmail.com
 
 ## Notes on my projects
-- [Main Branch](https://github.com/yourusername/yourrepository/tree/main)
+- [Main Branch: Miguel's-Automation-Projects]
   - [GRC Assessment Automation Branch](https://github.com/MiguelAngelHorta/MiguelAngelHorta/tree/GRC-Assessment-Automation)
   - Subitem 1
   - Subitem 2
