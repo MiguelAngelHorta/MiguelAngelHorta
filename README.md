@@ -10,8 +10,8 @@
 ## Notes on my projects
 - [Main Branch: Miguel's-Automation-Projects]
   - [GRC Assessment Automation Branch](https://github.com/MiguelAngelHorta/MiguelAngelHorta/tree/GRC-Assessment-Automation)
-    -  Javascript ran on google appsscript
-  - Subitem 2
+    -  Javascript on google app script
+  - 
 
 <!---
 MiguelAngelHorta/MiguelAngelHorta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
