@@ -6,6 +6,7 @@
 - ☁️ Lately, my curiosity has been captivated by cloud technologies, distributed systems, application building, and configuring workflows.
 - 🧑‍💻 Most of the scripts I've worked with are in SQL, Javascript, and Advanced Excel formulas.
 - 📫 Reach me via email: miguelhorta408@gmail.com
+- 👨‍🔬**gitlab**: https://gitlab.com/miguel_horta_sf
 
 # My Projects
 - [Main Branch: Miguel's-Automation-Projects]
