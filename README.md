@@ -7,7 +7,7 @@
 - 🧑‍💻 Most of the scripts I've worked with are in SQL, Javascript, and Advanced Excel formulas.
 - 📫 Reach me via email: miguelhorta408@gmail.com
 
-## Notes on my projects
+# My Projects
 - [Main Branch: Miguel's-Automation-Projects]
   - [GRC Assessment Automation Branch](https://github.com/MiguelAngelHorta/MiguelAngelHorta/tree/GRC-Assessment-Automation)
     -  Javascript on google app script
