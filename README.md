@@ -8,8 +8,7 @@
 - 📫 Reach me via email: miguelhorta408@gmail.com
 
 # My Projects
-- [Main Branch: Miguel's-Automation-Projects]
-  - [GRC Assessment Automation Branch](https://github.com/MiguelAngelHorta/MiguelAngelHorta/tree/GRC-Assessment-Automation)
+- [GRC Assessment Automation](https://github.com/MiguelAngelHorta/GRC_Assessment/tree/main?tab=readme-ov-file#grc-assessment)
     -  Javascript on google app script
   - 
 
