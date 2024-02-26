@@ -1,6 +1,6 @@
 # About Me
 - 👋 Hi, I’m @MiguelAngelHorta, Senior GRC Engineer
-- 👀 I’m interested in managing information security governance risk & compliance programs by leveraging automation and data engineering
+- 👀 I’m interested in managing information security governance risk & compliance programs by leveraging automation and data engineering concepts to parse, transform, and report on data.
 - 🧘 My focus lies in architecting process workflows that contribute to a proactive security posture. 
 - 🌱 My experience pertains to identifying areas for improvements in a security program and designing governance reporting.
 - ☁️ Lately, my curiosity has been captivated by cloud technologies, distributed systems, application building, and configuring workflows.
