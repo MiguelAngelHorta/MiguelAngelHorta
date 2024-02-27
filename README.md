@@ -10,8 +10,8 @@
 # My Projects
 - [GRC Assessment Automation](https://github.com/MiguelAngelHorta/GRC_Assessment/tree/main?tab=readme-ov-file#grc-assessment)
     -  Javascript on google app script
-  - [Access Review Automation](https://github.com/MiguelAngelHorta/Access-Reviews)
-
+- [Access Review Automation](https://github.com/MiguelAngelHorta/Access-Reviews)
+    -  Javascript on google app script
 <!---
 MiguelAngelHorta/MiguelAngelHorta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
