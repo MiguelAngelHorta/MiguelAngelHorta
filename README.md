@@ -12,6 +12,8 @@
     -  Javascript on google app script
 - [Access Review Automation](https://github.com/MiguelAngelHorta/Access-Reviews)
     -  Javascript on google app script
+- [Control Inventory Automation]((https://github.com/MiguelAngelHorta/Control-Inventory))
+    -  Javascript on google app script
 <!---
 MiguelAngelHorta/MiguelAngelHorta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
