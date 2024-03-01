@@ -9,7 +9,7 @@
 
 # My Projects 🚀
 - [GRC Assessment Automation](https://github.com/MiguelAngelHorta/GRC_Assessment/tree/main?tab=readme-ov-file#grc-assessment)
-    -  Utilizing Google Apps Script automation for streamlined assessment management, this involves the creation of a comprehensive summary database consolidating responses from various tabs.
+    -  Utilizing Google Apps Script automation for streamlined assessment management, involves the creation of a comprehensive summary database consolidating responses from various tabs.
 - [Access Review Automation](https://github.com/MiguelAngelHorta/Access-Reviews)
     -  Leveraging Google Apps Script and Excel functions for efficient access review management, encompassing approval tracking, file organization, and the generation of URLs across multiple tabs.
 - [Control Inventory Automation](https://github.com/MiguelAngelHorta/Control-Inventory)
