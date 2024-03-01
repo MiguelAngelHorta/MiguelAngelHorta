@@ -7,13 +7,14 @@
 - 🧑‍💻 Most of the scripts I've worked with are in SQL, Javascript, and Advanced Excel formulas.
 - 📫 Reach me via email: miguelhorta408@gmail.com
 
-# My Projects
+# My Projects 🚀
 - [GRC Assessment Automation](https://github.com/MiguelAngelHorta/GRC_Assessment/tree/main?tab=readme-ov-file#grc-assessment)
-    -  Javascript on google app script
+    -  Utilizing Google Apps Script automation for streamlined assessment management, this involves the creation of a comprehensive summary database consolidating responses from various tabs.
 - [Access Review Automation](https://github.com/MiguelAngelHorta/Access-Reviews)
-    -  Javascript on google app script
+    -  Leveraging Google Apps Script and Excel functions for efficient access review management, encompassing approval tracking, file organization, and the generation of URLs across multiple tabs.
 - [Control Inventory Automation](https://github.com/MiguelAngelHorta/Control-Inventory)
-    -  Javascript on google app script
+    -  Employing Google Apps Script and Excel functions to effectively oversee control inventory, facilitating data segmentation for streamlined reporting purposes.
+
 <!---
 MiguelAngelHorta/MiguelAngelHorta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
