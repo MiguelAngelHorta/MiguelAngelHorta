@@ -9,13 +9,13 @@
 
 # My Projects 🚀
 - [GRC Assessment - gsheets](https://github.com/MiguelAngelHorta/GRC_Assessment/tree/main?tab=readme-ov-file#grc-assessment)
-    -  📊 Utilizing Google Apps Script automation for streamlined assessment management, involves the creation of a comprehensive summary database consolidating responses from various tabs.
+    -  📊 Utilizing Google Apps Script automation for assessment management, involves the creation of a summary database consolidating responses from various tabs.
 - [GRC Assessment - retool](https://github.com/MiguelAngelHorta/Retool-Assessment/tree/main)
-    -  🔨 Implementing automation in retool to construct a web application, facilitating score calculations, retrieving mapped assessment data, and updating assessment details seamlessly.
+    -  🔨 Implementing automation in retool to create a web application, facilitating score calculations, retrieving mapped assessment data, and updating assessment details.
 - [Access Review - gsheets](https://github.com/MiguelAngelHorta/Access-Reviews)
-    -  🔍 Leveraging Google Apps Script and Excel functions for efficient access review management, encompassing approval tracking, file organization, and the generation of URLs across multiple tabs.
+    -  🔍 Leveraging Google Apps Script and Excel functions for access review management, encompassing approval tracking, file organization, and the generation of URLs across multiple tabs.
 - [Control Inventory - gsheets](https://github.com/MiguelAngelHorta/Control-Inventory)
-    -  🛠️ Employing Google Apps Script and Excel functions to effectively oversee control inventory, facilitating data segmentation for streamlined reporting purposes.
+    -  🛠️ Employing Google Apps Script and Excel functions to effectively oversee control inventory, facilitating data segmentation for reporting purposes.
 
 <!---
 MiguelAngelHorta/MiguelAngelHorta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
