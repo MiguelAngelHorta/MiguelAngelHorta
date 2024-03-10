@@ -8,7 +8,7 @@
 - 📫 Reach me via email: miguelhorta408@gmail.com
 
 # My Projects 🚀
-- [GRC App - local storage](https://github.com/MiguelAngelHorta/CRUD-App)
+- [Security Control Inventory Web App - local storage](https://github.com/MiguelAngelHorta/CRUD-App)
     - 🔨 Build a web app with local storage using HTML, Javascript, and CSS.
 - [GRC Assessment - gsheets](https://github.com/MiguelAngelHorta/GRC_Assessment/tree/main?tab=readme-ov-file#grc-assessment)
     -  📊 Utilizing Google Apps Script automation for assessment management, involves the creation of a summary database consolidating responses from various tabs.
