@@ -8,7 +8,7 @@
 - 📫 Reach me via email: miguelhorta408@gmail.com
 
 # My Projects 🚀
-- [Security Control Inventory Web App - local storage](https://github.com/MiguelAngelHorta/CRUD-App)
+- [Security Control Inventory Web App -  CRUD operations with local storage](https://github.com/MiguelAngelHorta/CRUD-App)
     - 🔨 Build a web app with local storage using HTML, Javascript, and CSS.
       - Add and update your security controls with ease through this [UI web page](https://miguelangelhorta.github.io/Security-Controls-Inventory/) 
 - [GRC Assessment - gsheets](https://github.com/MiguelAngelHorta/GRC_Assessment/tree/main?tab=readme-ov-file#grc-assessment)
