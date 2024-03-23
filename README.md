@@ -27,7 +27,7 @@
 - [Client-side CRUD operations with local storage](https://github.com/MiguelAngelHorta/CRUD-App)
     - 🔨 Build a client-side web app with local storage using HTML bootstrap, Javascript, and CSS.
         - 🎯 Example of app functionality hosted on this [Github Pages Link](https://miguelangelhorta.github.io/Security-Controls-Inventory/)
-        - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/8bb3a283-4af3-45e3-8a41-a57371d1797e" alt="Screenshot" style="width: 600px; height: 400px;">
+        - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/8bb3a283-4af3-45e3-8a41-a57371d1797e" alt="Screenshot" style="width: 700px; height: 400px;">
 
 <a name="security-control-inventory-app-backend"></a>
 
