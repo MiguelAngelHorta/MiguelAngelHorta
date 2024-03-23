@@ -48,6 +48,7 @@
 ## 3. GRC Assessment - gsheets
 - [GRC Assessment - gsheets](https://github.com/MiguelAngelHorta/GRC_Assessment/tree/main?tab=readme-ov-file#grc-assessment)
     - 🔨 Utilizing Google Apps Script automation for assessment management, involves the creation of a summary database consolidating responses from various tabs.
+    - ![1627301429603](https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/8a2b9c78-26fb-4a83-8c34-1285573bfff7)
 
 <a name="grc-assessment-retool"></a>
 
@@ -61,13 +62,15 @@
 ## 5. Access Review - gsheets
 - [Access Review - gsheets](https://github.com/MiguelAngelHorta/Access-Reviews)
     - 🔨 Leveraging Google Apps Script and Excel functions for access review management, encompassing approval tracking, file organization, and the generation of URLs across multiple tabs.
+    - ![1627301429603](https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/6f68d18f-7c57-40f8-a30f-b81c35505943)
+
 
 <a name="control-inventory-gsheets"></a>
 
 ## 6. Control Inventory - gsheets
 - [Control Inventory - gsheets](https://github.com/MiguelAngelHorta/Control-Inventory)
     - 🔨 Employing Google Apps Script and Excel functions to effectively oversee control inventory, facilitating data segmentation for reporting purposes.
-
+    - ![1_pHglcoa-BSouiNT7R2p9yQ](https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/fcca7b3f-1769-4e75-ba00-6c799eeb98e7)
 
 
 <!---
