@@ -9,8 +9,8 @@
 
 # Table of Contents
 
-1. [Security Control Inventory App (frontend)](#security-control-inventory-app)
-2. [Security Control Inventory App (frontend + backend)](#security-control-inventory-app)
+1. [Security Control Inventory App (frontend)](#security-control-inventory-app-frontend)
+2. [Security Control Inventory App (frontend + backend)](#security-control-inventory-app-backend)
 3. [GRC Assessment - gsheets](#grc-assessment-gsheets)
 4. [GRC Assessment - retool](#grc-assessment-retool)
 5. [Access Review - gsheets](#access-review-gsheets)
