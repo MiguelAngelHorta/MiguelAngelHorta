@@ -8,17 +8,26 @@
 - 📫 Reach me via email: miguelhorta408@gmail.com
 
 # My Projects 🚀
-- [Security Control Inventory Web App -  CRUD operations with local storage](https://github.com/MiguelAngelHorta/CRUD-App)
-    - 🔨 Build a web app with local storage using HTML, Javascript, and CSS.
-      - Add and update your security controls with ease through this [UI web page](https://miguelangelhorta.github.io/Security-Controls-Inventory/) 
+
+- **Security Control Inventory App**
+    - [Client-side CRUD operations with local storage](https://github.com/MiguelAngelHorta/CRUD-App)
+        - 🔨 Build a client-side web app with local storage using HTML bootstrap, Javascript, and CSS.
+              - 🎯 Example of app functionality hosted on this [Github Pages Link](https://miguelangelhorta.github.io/Security-Controls-Inventory/)
+    - [API Node.js server using Express framework to handle CRUD operations](https://github.com/MiguelAngelHorta/API-Server)
+        - 🔨 Set up a Node.js server using the Express framework, functioning as the API endpoint to handle client-side CRUD operations.
+
 - [GRC Assessment - gsheets](https://github.com/MiguelAngelHorta/GRC_Assessment/tree/main?tab=readme-ov-file#grc-assessment)
-    -  📊 Utilizing Google Apps Script automation for assessment management, involves the creation of a summary database consolidating responses from various tabs.
+    - 📊 Utilizing Google Apps Script automation for assessment management, involves the creation of a summary database consolidating responses from various tabs.
+
 - [GRC Assessment - retool](https://github.com/MiguelAngelHorta/Retool-Assessment/tree/main)
-    -  🔨 Implementing automation in retool to create a web application, facilitating score calculations, retrieving mapped assessment data, and updating assessment details.
+    - 🔨 Implementing automation in retool to create a web application, facilitating score calculations, retrieving mapped assessment data, and updating assessment details.
+
 - [Access Review - gsheets](https://github.com/MiguelAngelHorta/Access-Reviews)
-    -  🔍 Leveraging Google Apps Script and Excel functions for access review management, encompassing approval tracking, file organization, and the generation of URLs across multiple tabs.
+    - 🔍 Leveraging Google Apps Script and Excel functions for access review management, encompassing approval tracking, file organization, and the generation of URLs across multiple tabs.
+
 - [Control Inventory - gsheets](https://github.com/MiguelAngelHorta/Control-Inventory)
-    -  🛠️ Employing Google Apps Script and Excel functions to effectively oversee control inventory, facilitating data segmentation for reporting purposes.
+    - 🛠️ Employing Google Apps Script and Excel functions to effectively oversee control inventory, facilitating data segmentation for reporting purposes.
+
 
 <!---
 MiguelAngelHorta/MiguelAngelHorta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
