@@ -20,7 +20,7 @@
 
 # My Projects 🚀
 
-<a name="#security-control-inventory-app-frontend"></a>
+<a name="security-control-inventory-app-frontend"></a>
 
 
 ## 1. Security Control Inventory App (frontend)
