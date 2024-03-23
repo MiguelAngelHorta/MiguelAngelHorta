@@ -7,26 +7,41 @@
 - 🧑‍💻 Most of the scripts I've worked with are in SQL, Javascript, and Advanced Excel formulas.
 - 📫 Reach me via email: miguelhorta408@gmail.com
 
+# Table of Contents
+
+1. [Security Control Inventory App](#security-control-inventory-app)
+2. [GRC Assessment - gsheets](#grc-assessment-gsheets)
+3. [GRC Assessment - retool](#grc-assessment-retool)
+4. [Access Review - gsheets](#access-review-gsheets)
+5. [Control Inventory - gsheets](#control-inventory-gsheets)
+
+---
+
 # My Projects 🚀
 
-- **Security Control Inventory App**
-    - [Client-side CRUD operations with local storage](https://github.com/MiguelAngelHorta/CRUD-App)
-        - 🔨 Build a client-side web app with local storage using HTML bootstrap, Javascript, and CSS.
-              - 🎯 Example of app functionality hosted on this [Github Pages Link](https://miguelangelhorta.github.io/Security-Controls-Inventory/)
-    - [API Node.js server using Express framework to handle CRUD operations](https://github.com/MiguelAngelHorta/API-Server)
-        - 🔨 Set up a Node.js server using the Express framework, functioning as the API endpoint to handle client-side CRUD operations.
+## Security Control Inventory App
+- [Client-side CRUD operations with local storage](https://github.com/MiguelAngelHorta/CRUD-App)
+    - Build a client-side web app with local storage using HTML bootstrap, Javascript, and CSS.
+    - Example of app functionality hosted on this [Github Pages Link](https://miguelangelhorta.github.io/Security-Controls-Inventory/)
+- [API Node.js server using Express framework to handle CRUD operations](https://github.com/MiguelAngelHorta/API-Server)
+    - Set up a Node.js server using the Express framework, functioning as the API endpoint to handle client-side CRUD operations.
 
-- [GRC Assessment - gsheets](https://github.com/MiguelAngelHorta/GRC_Assessment/tree/main?tab=readme-ov-file#grc-assessment)
-    - 📊 Utilizing Google Apps Script automation for assessment management, involves the creation of a summary database consolidating responses from various tabs.
+## GRC Assessment - gsheets
+- Utilizing Google Apps Script automation for assessment management, involves the creation of a summary database consolidating responses from various tabs.
+    - [GRC Assessment - gsheets](https://github.com/MiguelAngelHorta/GRC_Assessment/tree/main?tab=readme-ov-file#grc-assessment)
 
-- [GRC Assessment - retool](https://github.com/MiguelAngelHorta/Retool-Assessment/tree/main)
-    - 🔨 Implementing automation in retool to create a web application, facilitating score calculations, retrieving mapped assessment data, and updating assessment details.
+## GRC Assessment - retool
+- Implementing automation in retool to create a web application, facilitating score calculations, retrieving mapped assessment data, and updating assessment details.
+    - [GRC Assessment - retool](https://github.com/MiguelAngelHorta/Retool-Assessment/tree/main)
 
-- [Access Review - gsheets](https://github.com/MiguelAngelHorta/Access-Reviews)
-    - 🔍 Leveraging Google Apps Script and Excel functions for access review management, encompassing approval tracking, file organization, and the generation of URLs across multiple tabs.
+## Access Review - gsheets
+- Leveraging Google Apps Script and Excel functions for access review management, encompassing approval tracking, file organization, and the generation of URLs across multiple tabs.
+    - [Access Review - gsheets](https://github.com/MiguelAngelHorta/Access-Reviews)
 
-- [Control Inventory - gsheets](https://github.com/MiguelAngelHorta/Control-Inventory)
-    - 🛠️ Employing Google Apps Script and Excel functions to effectively oversee control inventory, facilitating data segmentation for reporting purposes.
+## Control Inventory - gsheets
+- Employing Google Apps Script and Excel functions to effectively oversee control inventory, facilitating data segmentation for reporting purposes.
+    - [Control Inventory - gsheets](https://github.com/MiguelAngelHorta/Control-Inventory)
+
 
 
 <!---
