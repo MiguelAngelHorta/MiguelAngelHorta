@@ -54,6 +54,7 @@
 ## 4. GRC Assessment - retool
 - [GRC Assessment - retool](https://github.com/MiguelAngelHorta/Retool-Assessment/tree/main)
     - 🔨 Implementing automation in retool to create a web application, facilitating score calculations, retrieving mapped assessment data, and updating assessment details.
+    - ![631af92cae09691f743131d9_Retool](https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/372a5456-0390-434e-9bef-8773ca93bfb0)
 
 <a name="access-review-gsheets"></a>
 
