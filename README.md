@@ -24,8 +24,8 @@
     - 🔨 Build a client-side web app with local storage using HTML bootstrap, Javascript, and CSS.
         - 🎯 Example of app functionality hosted on this [Github Pages Link](https://miguelangelhorta.github.io/Security-Controls-Inventory/)
           
-- [API Node.js server using Express framework to handle CRUD operations](https://github.com/MiguelAngelHorta/API-Server)
-    - 🔨 Set up a Node.js server using the Express framework, functioning as the API endpoint to handle client-side CRUD operations.
+- [Express-based Node.js API Server for CRUD Operations with CORS and JSON Body Parsing Middleware](https://github.com/MiguelAngelHorta/API-Server)
+    - 🔨 Expand on the client-side web app and set up a backend Node.js server using the Express framework, functioning as the API endpoint to handle client-side CRUD operations.
 
 ## GRC Assessment - gsheets
 - [GRC Assessment - gsheets](https://github.com/MiguelAngelHorta/GRC_Assessment/tree/main?tab=readme-ov-file#grc-assessment)
