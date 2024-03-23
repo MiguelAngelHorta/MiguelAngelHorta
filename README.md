@@ -25,21 +25,31 @@
     - 🔨 Build a client-side web app with local storage using HTML bootstrap, Javascript, and CSS.
         - 🎯 Example of app functionality hosted on this [Github Pages Link](https://miguelangelhorta.github.io/Security-Controls-Inventory/)
 
+<a name="security-control-inventory-app-backend"></a>
+
 ## 2. Security Control Inventory App (frontend + backend)
 - [Express-based Node.js API Server for CRUD Operations with CORS and JSON Body Parsing Middleware](https://github.com/MiguelAngelHorta/API-Server)
     - 🔨 Expand on the client-side web app and set up a backend Node.js server using the Express framework, functioning as the API endpoint to handle client-side CRUD operations.
+
+<a name="grc-assessment-gsheets"></a>
 
 ## 3. GRC Assessment - gsheets
 - [GRC Assessment - gsheets](https://github.com/MiguelAngelHorta/GRC_Assessment/tree/main?tab=readme-ov-file#grc-assessment)
     - 🔨 Utilizing Google Apps Script automation for assessment management, involves the creation of a summary database consolidating responses from various tabs.
 
+<a name="grc-assessment-retool"></a>
+
 ## 4. GRC Assessment - retool
 - [GRC Assessment - retool](https://github.com/MiguelAngelHorta/Retool-Assessment/tree/main)
     - 🔨 Implementing automation in retool to create a web application, facilitating score calculations, retrieving mapped assessment data, and updating assessment details.
 
+<a name="access-review-gsheets"></a>
+
 ## 5. Access Review - gsheets
 - [Access Review - gsheets](https://github.com/MiguelAngelHorta/Access-Reviews)
     - 🔨 Leveraging Google Apps Script and Excel functions for access review management, encompassing approval tracking, file organization, and the generation of URLs across multiple tabs.
+
+<a name="control-inventory-gsheets"></a>
 
 ## 6. Control Inventory - gsheets
 - [Control Inventory - gsheets](https://github.com/MiguelAngelHorta/Control-Inventory)
