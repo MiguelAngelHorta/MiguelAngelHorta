@@ -20,6 +20,9 @@
 
 # My Projects 🚀
 
+<a name="#security-control-inventory-app-frontend"></a>
+
+
 ## 1. Security Control Inventory App (frontend)
 - [Client-side CRUD operations with local storage](https://github.com/MiguelAngelHorta/CRUD-App)
     - 🔨 Build a client-side web app with local storage using HTML bootstrap, Javascript, and CSS.
