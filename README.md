@@ -23,6 +23,7 @@
 - [Client-side CRUD operations with local storage](https://github.com/MiguelAngelHorta/CRUD-App)
     - 🔨 Build a client-side web app with local storage using HTML bootstrap, Javascript, and CSS.
         - 🎯 Example of app functionality hosted on this [Github Pages Link](https://miguelangelhorta.github.io/Security-Controls-Inventory/)
+          
 - [API Node.js server using Express framework to handle CRUD operations](https://github.com/MiguelAngelHorta/API-Server)
     - 🔨 Set up a Node.js server using the Express framework, functioning as the API endpoint to handle client-side CRUD operations.
 
