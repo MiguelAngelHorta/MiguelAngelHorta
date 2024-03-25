@@ -7,6 +7,7 @@
 - 🧑‍💻 Most of the scripts I've worked with are in SQL, Javascript, and Advanced Excel formulas.
 - 📫 Reach me via email: miguelhorta408@gmail.com
 
+---
 
 # My Projects 🚀
 
