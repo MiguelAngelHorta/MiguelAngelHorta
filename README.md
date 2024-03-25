@@ -36,12 +36,14 @@
 ## 2. Security Control Inventory App (frontend + backend)
 - [Express-based Node.js API Server for CRUD Operations with CORS and JSON Body Parsing Middleware](https://github.com/MiguelAngelHorta/API-Server)
     - 🔨 Expand on the client-side web app and set up a backend Node.js server using the Express framework, functioning as the API endpoint to handle client-side CRUD operations.
-       
-       - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/ad8a3975-33ab-4eae-8c00-ca87fee93d31" alt="Screenshot" style="width: 700px; height: 300px;">
+       -
+           - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/ad8a3975-33ab-4eae-8c00-ca87fee93d31" alt="Screenshot" style="width: 700px; height: 300px;">
+
+        - Use node.js runtime and express framework to build the backend for a local API server
+            - <img src="[https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/cfe65915-c790-4d77-9ff3-f79fd37eab97](https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/6449397f-4eef-46ba-922e-8dcaf278b8e2)" alt="Screenshot" style="width: 700px; height: 200px;"> 
          
-        - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/cfe65915-c790-4d77-9ff3-f79fd37eab97" alt="Screenshot" style="width: 700px; height: 200px;">
-          
-        - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/588e6400-28d4-430f-8be1-5dac255a0e55" alt="Screenshot" style="width: 700px; height: 200px;">
+        - Test your API requests using postman
+            - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/588e6400-28d4-430f-8be1-5dac255a0e55" alt="Screenshot" style="width: 700px; height: 200px;">
 
 
 <a name="grc-assessment-gsheets"></a>
