@@ -28,7 +28,8 @@
     - 🔨 Build a client-side web app with local storage using HTML bootstrap, Javascript, and CSS.
         - 🎯 Example of app functionality hosted on this [Github Pages Link](https://miguelangelhorta.github.io/Security-Controls-Inventory/)
             - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/8bb3a283-4af3-45e3-8a41-a57371d1797e" alt="Screenshot" style="width: 700px; height: 400px;">
-        - 🐳 Deploy this app using Docker 
+        - 🐳 Deploy this app using Docker
+            - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/433dd0fe-656a-47fc-aa2d-22f385febfde" alt="Screenshot" style="width: 700px; height: 400px;">
 
 <a name="security-control-inventory-app-backend"></a>
 
