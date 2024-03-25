@@ -7,7 +7,8 @@
 - 🧑‍💻 Most of the scripts I've worked with are in SQL, Javascript, and Advanced Excel formulas.
 - 📫 Reach me via email: miguelhorta408@gmail.com
 
-# Table of Contents
+
+# My Projects 🚀
 
 1. [Security Control Inventory App (frontend)](#security-control-inventory-app-frontend)
 2. [Security Control Inventory App (frontend + backend)](#security-control-inventory-app-backend)
@@ -16,12 +17,9 @@
 5. [Access Review - gsheets](#access-review-gsheets)
 6. [Control Inventory - gsheets](#control-inventory-gsheets)
 
----
-
-# My Projects 🚀
-
 <a name="security-control-inventory-app-frontend"></a>
 
+---
 
 ## 1. Security Control Inventory App (frontend)
 - [Client-side CRUD operations with local storage](https://github.com/MiguelAngelHorta/CRUD-App)
