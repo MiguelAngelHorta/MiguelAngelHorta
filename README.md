@@ -29,6 +29,8 @@
             - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/8bb3a283-4af3-45e3-8a41-a57371d1797e" alt="Screenshot" style="width: 700px; height: 400px;">
         - 🐳 Deploy this app using Docker
             - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/433dd0fe-656a-47fc-aa2d-22f385febfde" alt="Screenshot" style="width: 700px; height: 200px;">
+        - ☁️ Deploy this app using AWS
+            - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/2e45ffaa-222f-40fb-8b13-a569a2bb1b25" alt="Screenshot" style="width: 700px; height: 200px;">!
 
 <a name="security-control-inventory-app-backend"></a>
 
