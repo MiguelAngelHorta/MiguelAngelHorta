@@ -28,9 +28,9 @@
         - 🎯 Example of app functionality hosted on this [Github Pages Link](https://miguelangelhorta.github.io/Security-Controls-Inventory/)
             - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/ad8a3975-33ab-4eae-8c00-ca87fee93d31" alt="Screenshot" style="max-width: 100%; height: auto; max-height: 300px;">
         - 🐳 Deploy this app using Docker
-            - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/433dd0fe-656a-47fc-aa2d-22f385febfde" alt="Screenshot" style="max-width: 100%; height: auto;">
+            - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/433dd0fe-656a-47fc-aa2d-22f385febfde" alt="Screenshot" style="max-width: 100%; height: auto; max-height: 300px">
         - ☁️ Deploy this app using AWS
-            - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/2e45ffaa-222f-40fb-8b13-a569a2bb1b25" alt="Screenshot" style="max-width: 100%; height: auto;">
+            - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/2e45ffaa-222f-40fb-8b13-a569a2bb1b25" alt="Screenshot" style="max-width: 100%; height: auto; max-height: 300px">
 
 <a name="security-control-inventory-app-backend"></a>
 
