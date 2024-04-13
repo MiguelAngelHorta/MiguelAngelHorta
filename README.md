@@ -24,7 +24,7 @@
 ---
 ## 1. AWS Cloud Resume Challenge
 - [AWS Cloud Resume]([https://github.com/MiguelAngelHorta/CRUD-App](https://github.com/MiguelAngelHorta/AWS-Cloud-Resume/tree/main))
-  - https://cloudresumechallenge.dev/docs/the-challenge/aws/
+  -  The [AWS cloud resume challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/) is a project that helps you build a cloud-based resume website while demonstrating fundamental cloud skills across various domains such as AWS certification, HTML/CSS styling, JavaScript, databases, APIs, Python coding, testing, infrastructure as code, source control, and CI/CD for front and back ends. Participants complete the challenge by deploying a resume site on Amazon S3, adding features such as HTTPS, DNS, and a visitor counter, and sharing their experience in a blog post.
      - <img src="https://github.com/MiguelAngelHorta/AWS-Cloud-Resume/assets/106134627/fdfe76dd-a010-4a7e-a240-e0821bfacd77" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
 
 <a name="security-control-inventory-app-frontend"></a>
