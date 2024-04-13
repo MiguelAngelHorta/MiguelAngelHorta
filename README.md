@@ -19,7 +19,6 @@
 6. [Access Review - gsheets](#access-review-gsheets)
 7. [Control Inventory - gsheets](#control-inventory-gsheets)
 
-<a name="security-control-inventory-app-frontend"></a>
 
 ---
 ## 1. AWS Cloud Resume Challenge
