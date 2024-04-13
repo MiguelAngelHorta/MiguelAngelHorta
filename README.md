@@ -11,18 +11,26 @@
 
 # My Projects 🚀
 
-1. [Security Control Inventory App (frontend)](#security-control-inventory-app-frontend)
-2. [Security Control Inventory App (frontend + backend)](#security-control-inventory-app-backend)
-3. [GRC Assessment - gsheets](#grc-assessment-gsheets)
-4. [GRC Assessment - retool](#grc-assessment-retool)
-5. [Access Review - gsheets](#access-review-gsheets)
-6. [Control Inventory - gsheets](#control-inventory-gsheets)
+1. [AWS Cloud Resume Challenge)](#aws-cloud-resume-challenge)
+2. [Security Control Inventory App (frontend)](#security-control-inventory-app-frontend)
+3. [Security Control Inventory App (frontend + backend)](#security-control-inventory-app-backend)
+4. [GRC Assessment - gsheets](#grc-assessment-gsheets)
+5. [GRC Assessment - retool](#grc-assessment-retool)
+6. [Access Review - gsheets](#access-review-gsheets)
+7. [Control Inventory - gsheets](#control-inventory-gsheets)
 
 <a name="security-control-inventory-app-frontend"></a>
 
 ---
+## 1. AWS Cloud Resume Challenge
+- [AWS Cloud Resume]([https://github.com/MiguelAngelHorta/CRUD-App](https://github.com/MiguelAngelHorta/AWS-Cloud-Resume/tree/main))
+  - https://cloudresumechallenge.dev/docs/the-challenge/aws/
+     - <img src="https://github.com/MiguelAngelHorta/AWS-Cloud-Resume/assets/106134627/fdfe76dd-a010-4a7e-a240-e0821bfacd77" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
 
-## 1. Security Control Inventory App (frontend)
+<a name="aws-cloud-resume-challenge"></a>
+
+
+## 2. Security Control Inventory App (frontend)
 - [Client-side CRUD operations with local storage](https://github.com/MiguelAngelHorta/CRUD-App)
     - 🔨 Build a client-side web app with local storage using HTML bootstrap, Javascript, and CSS.
         - 🎯 Example of app functionality hosted on this [Github Pages Link](https://miguelangelhorta.github.io/Security-Controls-Inventory/)
@@ -35,7 +43,7 @@
 
 <a name="security-control-inventory-app-backend"></a>
 
-## 2. Security Control Inventory App (frontend + backend)
+## 3. Security Control Inventory App (frontend + backend)
 - [Express-based Node.js API Server for CRUD Operations with CORS and JSON Body Parsing Middleware](https://github.com/MiguelAngelHorta/API-Server)
     - 🔨 Expand on the client-side web app and set up a backend Node.js server using the Express framework, functioning as the API endpoint to handle client-side CRUD operations.
         - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/ad8a3975-33ab-4eae-8c00-ca87fee93d31" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
@@ -49,26 +57,26 @@
 
 <a name="grc-assessment-gsheets"></a>
 
-## 3. GRC Assessment - gsheets
+## 4. GRC Assessment - gsheets
 - [GRC Assessment - gsheets](https://github.com/MiguelAngelHorta/GRC_Assessment/tree/main?tab=readme-ov-file#grc-assessment)
     - 🔨 Utilizing Google Apps Script automation for assessment management, involves the creation of a summary database consolidating responses from various tabs.
     - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/8a2b9c78-26fb-4a83-8c34-1285573bfff7" alt="Screenshot" style="width: 400px; height: 100px; max-width: 100%; height: auto;">
 <a name="grc-assessment-retool"></a>
 
-## 4. GRC Assessment - retool
+## 5. GRC Assessment - retool
 - [GRC Assessment - retool](https://github.com/MiguelAngelHorta/Retool-Assessment/tree/main)
     - 🔨 Implementing automation in retool to create a web application, facilitating score calculations, retrieving mapped assessment data, and updating assessment details.
     - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/372a5456-0390-434e-9bef-8773ca93bfb0" alt="Screenshot" style="width: 400px; height: 100px; max-width: 100%; height: auto;">
 <a name="access-review-gsheets"></a>
 
-## 5. Access Review - gsheets
+## 6. Access Review - gsheets
 - [Access Review - gsheets](https://github.com/MiguelAngelHorta/Access-Reviews)
     - 🔨 Leveraging Google Apps Script and Excel functions for access review management, encompassing approval tracking, file organization, and the generation of URLs across multiple tabs.
     - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/6f68d18f-7c57-40f8-a30f-b81c35505943" alt="Screenshot" style="width: 400px; height: 100px; max-width: 100%; height: auto;">
 
 <a name="control-inventory-gsheets"></a>
 
-## 6. Control Inventory - gsheets
+## 7. Control Inventory - gsheets
 - [Control Inventory - gsheets](https://github.com/MiguelAngelHorta/Control-Inventory)
     - 🔨 Employing Google Apps Script and Excel functions to effectively oversee control inventory, facilitating data segmentation for reporting purposes.
     - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/fcca7b3f-1769-4e75-ba00-6c799eeb98e7" alt="Screenshot" style="width: 400px; height: 100px; max-width: 100%; height: auto;">
