@@ -27,6 +27,7 @@
   - https://cloudresumechallenge.dev/docs/the-challenge/aws/
      - <img src="https://github.com/MiguelAngelHorta/AWS-Cloud-Resume/assets/106134627/fdfe76dd-a010-4a7e-a240-e0821bfacd77" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
 
+<a name="security-control-inventory-app-frontend"></a>
 
 ## 2. Security Control Inventory App (frontend)
 - [Client-side CRUD operations with local storage](https://github.com/MiguelAngelHorta/CRUD-App)
