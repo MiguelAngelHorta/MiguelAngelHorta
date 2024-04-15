@@ -11,7 +11,7 @@
 
 # My Projects 🚀
 
-1. [AWS Cloud Resume Challenge)](#aws-cloud-resume-challenge)
+1. [AWS Cloud Resume Challenge](#aws-cloud-resume-challenge)
 2. [Security Control Inventory App (frontend)](#security-control-inventory-app-frontend)
 3. [Security Control Inventory App (frontend + backend)](#security-control-inventory-app-backend)
 4. [GRC Assessment - gsheets](#grc-assessment-gsheets)
