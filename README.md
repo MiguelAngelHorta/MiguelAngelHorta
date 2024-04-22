@@ -43,7 +43,7 @@
 
 ## 4. [Security Control Inventory App (frontend + backend)](https://github.com/MiguelAngelHorta/API-Server)
 - 🔨 Build an Express-based Node.js API Server for CRUD Operations with CORS and JSON Body Parsing Middleware. Expand on the client-side web app and set up a backend Node.js server using the Express framework, functioning as the API endpoint to handle client-side CRUD operations.
-  - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/ad8a3975-33ab-4eae-8c00-ca87fee93d31" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
+  - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/4906cf6b-2db7-434b-8825-1e073acbe3d8" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
 
 <a name="grc-assessment-gsheets"></a>
 
