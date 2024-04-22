@@ -23,64 +23,49 @@
 <a name="serverless-web-application"></a>
 
 ---
-## 1 Serverless Web Application
+## 1. [Serverless Web Application](https://github.com/MiguelAngelHorta/Serverless-Web-Application/tree/main)
 - Build a web-based interface for managing security controls by perform CRUD operations (Create, Read, Update, Delete) on a list of controls stored in dynamodb, with API calls handled via frontend interactions and DynamoDB manipulation facilitated by Lambda functions and API Gateway endpoints.
   - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/b66a098b-ce04-4703-ba50-7ee1a6be7117" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
 
 <a name="aws-cloud-resume-challenge"></a>
 
-## 2. AWS Cloud Resume Challenge
-- [AWS Cloud Resume](https://github.com/MiguelAngelHorta/AWS-Cloud-Resume/tree/main)
-  -  The [AWS cloud resume challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/) is a project that helps you build a cloud-based resume website while demonstrating fundamental cloud skills across various domains such as AWS certification, HTML/CSS styling, JavaScript, databases, APIs, Python coding, testing, infrastructure as code, source control, and CI/CD for front and back ends. The challenge includes deploying a resume site on Amazon S3, and adding features such as HTTPS, DNS, and a visitor counter.
-     - <img src="https://github.com/MiguelAngelHorta/AWS-Cloud-Resume/assets/106134627/d4e938e6-765a-448c-8d93-c11d4524bd76" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
+## 2. [AWS Cloud Resume](https://github.com/MiguelAngelHorta/AWS-Cloud-Resume/tree/main)
+- The [AWS cloud resume challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/) is a project that helps you build a cloud-based resume website while demonstrating fundamental cloud skills across various domains such as AWS certification, HTML/CSS styling, JavaScript, databases, APIs, Python coding, testing, infrastructure as code, source control, and CI/CD for front and back ends. The challenge includes deploying a resume site on Amazon S3, and adding features such as HTTPS, DNS, and a visitor counter.
+  - <img src="https://github.com/MiguelAngelHorta/AWS-Cloud-Resume/assets/106134627/d4e938e6-765a-448c-8d93-c11d4524bd76" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
 
 <a name="security-control-inventory-app-frontend"></a>
 
-## 3. Security Control Inventory App (frontend)
-- [Client-side CRUD operations with local storage](https://github.com/MiguelAngelHorta/CRUD-App)
-    - 🔨 Build a client-side web app with local storage using HTML bootstrap, Javascript, and CSS.
-        - 🎯 Example of app functionality hosted on this [Github Pages Link](https://miguelangelhorta.github.io/Security-Controls-Inventory/)
-             - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/ad8a3975-33ab-4eae-8c00-ca87fee93d31" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
+## 3. [Security Control Inventory App (frontend)](https://github.com/MiguelAngelHorta/CRUD-App)
+- 🔨 Build a client-side web app with local storage using HTML bootstrap, Javascript, and CSS. Example of app functionality hosted on this [Github Pages Link](https://miguelangelhorta.github.io/Security-Controls-Inventory/)
+  - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/ad8a3975-33ab-4eae-8c00-ca87fee93d31" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
 
 <a name="security-control-inventory-app-backend"></a>
 
-## 4. Security Control Inventory App (frontend + backend)
-- [Express-based Node.js API Server for CRUD Operations with CORS and JSON Body Parsing Middleware](https://github.com/MiguelAngelHorta/API-Server)
-    - 🔨 Expand on the client-side web app and set up a backend Node.js server using the Express framework, functioning as the API endpoint to handle client-side CRUD operations.
-        - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/ad8a3975-33ab-4eae-8c00-ca87fee93d31" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
-
-        - Use node.js runtime and express framework to build the backend for a local API server
-            - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/67bbb22e-5f17-4883-a9cb-3a8ef8a9490b" alt="Screenshot" style="width: 400px; height: 100px; max-width: 100%; height: auto;">
-
-        - Test your API requests using postman
-            - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/588e6400-28d4-430f-8be1-5dac255a0e55" alt="Screenshot" style="width: 400px; height: 100px; max-width: 100%; height: auto;">
-
+## 4. [Security Control Inventory App (frontend + backend)](https://github.com/MiguelAngelHorta/API-Server)
+- 🔨 Build an Express-based Node.js API Server for CRUD Operations with CORS and JSON Body Parsing Middleware. Expand on the client-side web app and set up a backend Node.js server using the Express framework, functioning as the API endpoint to handle client-side CRUD operations.
+  - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/ad8a3975-33ab-4eae-8c00-ca87fee93d31" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
 
 <a name="grc-assessment-gsheets"></a>
 
-## 5. GRC Assessment - gsheets
-- [GRC Assessment - gsheets](https://github.com/MiguelAngelHorta/GRC_Assessment/tree/main?tab=readme-ov-file#grc-assessment)
-    - 🔨 Utilizing Google Apps Script automation for assessment management, involves the creation of a summary database consolidating responses from various tabs.
-    - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/8a2b9c78-26fb-4a83-8c34-1285573bfff7" alt="Screenshot" style="width: 400px; height: 100px; max-width: 100%; height: auto;">
+## 5. [GRC Assessment - gsheets](https://github.com/MiguelAngelHorta/GRC_Assessment/tree/main?tab=readme-ov-file#grc-assessment)
+- 🔨 Utilizing Google Apps Script automation for assessment management, involves the creation of a summary database consolidating responses from various tabs.
+  - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/8a2b9c78-26fb-4a83-8c34-1285573bfff7" alt="Screenshot" style="width: 400px; height: 100px; max-width: 100%; height: auto;">
 <a name="grc-assessment-retool"></a>
 
-## 6. GRC Assessment - retool
-- [GRC Assessment - retool](https://github.com/MiguelAngelHorta/Retool-Assessment/tree/main)
-    - 🔨 Implementing automation in retool to create a web application, facilitating score calculations, retrieving mapped assessment data, and updating assessment details.
-    - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/372a5456-0390-434e-9bef-8773ca93bfb0" alt="Screenshot" style="width: 400px; height: 100px; max-width: 100%; height: auto;">
+## 6. [GRC Assessment - retool](https://github.com/MiguelAngelHorta/Retool-Assessment/tree/main)
+- 🔨 Implementing automation in retool to create a web application, facilitating score calculations, retrieving mapped assessment data, and updating assessment details.
+  - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/372a5456-0390-434e-9bef-8773ca93bfb0" alt="Screenshot" style="width: 400px; height: 100px; max-width: 100%; height: auto;">
 <a name="access-review-gsheets"></a>
 
-## 7. Access Review - gsheets
-- [Access Review - gsheets](https://github.com/MiguelAngelHorta/Access-Reviews)
-    - 🔨 Leveraging Google Apps Script and Excel functions for access review management, encompassing approval tracking, file organization, and the generation of URLs across multiple tabs.
-    - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/6f68d18f-7c57-40f8-a30f-b81c35505943" alt="Screenshot" style="width: 400px; height: 100px; max-width: 100%; height: auto;">
+## 7. [Access Review - gsheets](https://github.com/MiguelAngelHorta/Access-Reviews)
+- 🔨 Leveraging Google Apps Script and Excel functions for access review management, encompassing approval tracking, file organization, and the generation of URLs across multiple tabs.
+  - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/6f68d18f-7c57-40f8-a30f-b81c35505943" alt="Screenshot" style="width: 400px; height: 100px; max-width: 100%; height: auto;">
 
 <a name="control-inventory-gsheets"></a>
 
-## 8. Control Inventory - gsheets
-- [Control Inventory - gsheets](https://github.com/MiguelAngelHorta/Control-Inventory)
-    - 🔨 Employing Google Apps Script and Excel functions to effectively oversee control inventory, facilitating data segmentation for reporting purposes.
-    - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/fcca7b3f-1769-4e75-ba00-6c799eeb98e7" alt="Screenshot" style="width: 400px; height: 100px; max-width: 100%; height: auto;">
+## 8. [Control Inventory - gsheets](https://github.com/MiguelAngelHorta/Control-Inventory)
+- 🔨 Employing Google Apps Script and Excel functions to effectively oversee control inventory, facilitating data segmentation for reporting purposes.
+  - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/fcca7b3f-1769-4e75-ba00-6c799eeb98e7" alt="Screenshot" style="width: 400px; height: 100px; max-width: 100%; height: auto;">
 
 <!---
 MiguelAngelHorta/MiguelAngelHorta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
