@@ -13,4 +13,4 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:       
-          CREDLY_USER: miguel-horta/badge-readme@main
+          CREDLY_USER: miguel-horta
