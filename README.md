@@ -9,6 +9,17 @@
 
 ---
 
+# My Certifications
+<div data-iframe-width="140" data-iframe-height="270" data-share-badge-id="9d6bbe59-44bb-4095-b4df-1b8925f554d7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="140" data-iframe-height="270" data-share-badge-id="e6a204b7-7afb-4d10-831f-2293038168eb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="140" data-iframe-height="270" data-share-badge-id="5336799f-bc04-43f0-b29d-769fa85744ef" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="140" data-iframe-height="270" data-share-badge-id="47e2e25e-2a97-4576-bc2b-1e4d1e916771" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="140" data-iframe-height="270" data-share-badge-id="27331a6b-feef-4563-be8b-a640d1922d4f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="140" data-iframe-height="270" data-share-badge-id="034d90ee-070e-49a8-a56e-9caa62b79a21" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+
+---
+
 # My Projects 🚀
 
 1. [Serverless Web Application](#serverless-web-application)
