@@ -10,7 +10,6 @@
 ---
 
 # My Certifications
-[![update-adges](https://github.com/MiguelAngelHorta/MiguelAngelHorta/actions/workflows/blank.yml/badge.svg)](https://github.com/MiguelAngelHorta/MiguelAngelHorta/actions/workflows/blank.yml)
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
