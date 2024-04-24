@@ -13,7 +13,6 @@
   <h1>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     Hi, I’m Miguel, Senior GRC Engineer
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 <div align="center">
@@ -21,7 +20,7 @@
 </div>
 
 
-# 🧏 About Me
+# 🧏 About Me :
 - 👀 I’m interested in managing information security governance risk & compliance programs by leveraging automation and data engineering concepts to parse, transform, structure, and visualize data.
 - 🧘 My focus lies in architecting process workflows that contribute to a proactive security posture. 
 - 🌱 My experience pertains to identifying areas for improvements in a security program and designing governance reporting.
@@ -30,7 +29,7 @@
   
 ---
 
-# 📕 My Certifications
+### 📕 My Certifications :
 <!--START_SECTION:badges-->
 [![HashiCorp Certified: Vault Associate (002)](https://images.credly.com/size/110x110/images/fd1bf1cf-dc60-4868-b3a3-9b93e8af763c/image.png)](http://www.credly.com/badges/034d90ee-070e-49a8-a56e-9caa62b79a21 "HashiCorp Certified: Vault Associate (002)")
 [![KCNA: Kubernetes and Cloud Native Associate](https://images.credly.com/size/110x110/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](http://www.credly.com/badges/27331a6b-feef-4563-be8b-a640d1922d4f "KCNA: Kubernetes and Cloud Native Associate")
@@ -70,7 +69,7 @@
 
 ---
 
-# 🚀 My Projects 
+# 🚀 My Projects :
 1. [Serverless Web Application](#serverless-web-application)
 2. [AWS Cloud Resume Challenge](#aws-cloud-resume-challenge)
 3. [Security Control Inventory App (frontend + backend)](#security-control-inventory-app-backend)
