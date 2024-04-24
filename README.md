@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif" width="100"/>
-</div>
+
 
 # About Me
 - 👋 Hi, I’m @MiguelAngelHorta, Senior GRC Engineer
@@ -10,6 +8,10 @@
 - ☁️ Lately, my curiosity has been captivated by cloud technologies, distributed systems, application building, and configuring workflows.
 - 🧑‍💻 Most of the scripts I've worked with are in SQL, CSS, Python, Javascript, and Advanced Excel formulas.
 - 📫 Reach me via email: miguelhorta408@gmail.com
+  
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/fmkYSBlJt3XjNF6p9c/giphy.gif" width="200"/>
+</div>
 
 ---
 
