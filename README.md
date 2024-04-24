@@ -83,14 +83,14 @@
 
 ---
 ## 1. [Serverless Web Application](https://github.com/MiguelAngelHorta/Serverless-Web-Application/tree/main)
-- [app.miguelhorta.com](http://app.miguelhorta.com)
+- [app.miguelhorta.com](https://app.miguelhorta.com)
 - Build a web-based interface for managing security controls by perform CRUD operations (Create, Read, Update, Delete) on a list of controls stored in dynamodb, with API calls handled via frontend interactions and DynamoDB manipulation facilitated by Lambda functions and API Gateway endpoints.
   - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/b66a098b-ce04-4703-ba50-7ee1a6be7117" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
 
 <a name="aws-cloud-resume-challenge"></a>
 
 ## 2. [AWS Cloud Resume](https://github.com/MiguelAngelHorta/AWS-Cloud-Resume/tree/main)
-- [resume.miguelhorta.com](http://resume.miguelhorta.com)
+- [resume.miguelhorta.com](https://resume.miguelhorta.com)
 - The [AWS cloud resume challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/) is a project that helps you build a cloud-based resume website while demonstrating fundamental cloud skills across various domains such as AWS certification, HTML/CSS styling, JavaScript, databases, APIs, Python coding, testing, infrastructure as code, source control, and CI/CD for front and back ends. The challenge includes deploying a resume site on Amazon S3, and adding features such as HTTPS, DNS, and a visitor counter.
   - <img src="https://github.com/MiguelAngelHorta/AWS-Cloud-Resume/assets/106134627/d4e938e6-765a-448c-8d93-c11d4524bd76" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
 
