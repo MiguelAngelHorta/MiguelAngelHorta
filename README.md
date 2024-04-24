@@ -72,7 +72,7 @@
 2. [AWS Cloud Resume Challenge](#aws-cloud-resume-challenge)
 3. [Security Control Inventory App (frontend + backend)](#security-control-inventory-app-backend)
 4. [Security Control Inventory App (frontend)](#security-control-inventory-app-frontend)
-5. [Cisco Packet Tracer - Home Lab] (#cisco-packet-tracer)
+5. [Cisco Packet Tracer - Home Lab](#cisco-packet-tracer)
 6. [GRC Assessment - gsheets](#grc-assessment-gsheets)
 7. [GRC Assessment - retool](#grc-assessment-retool)
 8. [Access Review - gsheets](#access-review-gsheets)
