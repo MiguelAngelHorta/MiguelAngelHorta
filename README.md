@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif" width="100"/>
+</div>
+
 # About Me
 - 👋 Hi, I’m @MiguelAngelHorta, Senior GRC Engineer
 - 👀 I’m interested in managing information security governance risk & compliance programs by leveraging automation and data engineering concepts to parse, transform, structure, and visualize data.
