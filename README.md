@@ -27,6 +27,7 @@
 ---
 
 ### 📕 My Certifications :
+[![Update badges](https://github.com/MiguelAngelHorta/MiguelAngelHorta/actions/workflows/update-badges.yml/badge.svg)](https://github.com/MiguelAngelHorta/MiguelAngelHorta/actions/workflows/update-badges.yml)
 <!--START_SECTION:badges-->
 [![HashiCorp Certified: Vault Associate (002)](https://images.credly.com/size/110x110/images/fd1bf1cf-dc60-4868-b3a3-9b93e8af763c/image.png)](http://www.credly.com/badges/034d90ee-070e-49a8-a56e-9caa62b79a21 "HashiCorp Certified: Vault Associate (002)")
 [![KCNA: Kubernetes and Cloud Native Associate](https://images.credly.com/size/110x110/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](http://www.credly.com/badges/27331a6b-feef-4563-be8b-a640d1922d4f "KCNA: Kubernetes and Cloud Native Associate")
