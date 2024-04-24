@@ -21,10 +21,6 @@
 </div>
 
 
-
-
-
-
 # 🧏 About Me
 - 👀 I’m interested in managing information security governance risk & compliance programs by leveraging automation and data engineering concepts to parse, transform, structure, and visualize data.
 - 🧘 My focus lies in architecting process workflows that contribute to a proactive security posture. 
@@ -64,6 +60,13 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="postman" alt="postman" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg"  title="postman" alt="postman" width="40" height="40"/>&nbsp;
 </div>
+
+---
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MiguelAngelHorta&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAngelHorta&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
