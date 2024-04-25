@@ -34,7 +34,7 @@
 [![LFS250: Kubernetes and Cloud Native Essentials](https://images.credly.com/size/110x110/images/db83c629-b0cc-45ca-9881-3434077a66ef/LF_logobadge.png)](http://www.credly.com/badges/9bb0a80d-f13b-404b-bd8a-bbf8040235a7 "LFS250: Kubernetes and Cloud Native Essentials")
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/47e2e25e-2a97-4576-bc2b-1e4d1e916771 "AWS Certified Solutions Architect – Associate")
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/5336799f-bc04-43f0-b29d-769fa85744ef "AWS Certified Cloud Practitioner")
-[![Certified Information Systems Security Professional (CISSP)](https://images.credly.com/size/110x110/images/6eeb0a98-33cb-4f72-bfc3-f89d65a3286c/image.png)](http://www.credly.com/badges/e6a204b7-7afb-4d10-831f-2293038168eb "Certified Information Systems Security Professional (CISSP)")
+[![Certified Information Systems Security Professional (CISSP)](https://images.credly.com/size/110x110/images/6eeb0a98-33cb-4f72-bfc3-f89d65a3286c/image.png)](http://www.credly.com/badges/f5d396ad-a405-4d2b-9db7-d9065094c210 "Certified Information Systems Security Professional (CISSP)")
 [![Certified Information Systems Auditor® (CISA)](https://images.credly.com/size/110x110/images/d8b54d17-692a-4151-8e2e-e3c8c1a89ec1/b415cf50edc1955df11b9046c68b7e2debbd41f1.png)](http://www.credly.com/badges/9d6bbe59-44bb-4095-b4df-1b8925f554d7 "Certified Information Systems Auditor® (CISA)")
 <!--END_SECTION:badges-->
 
