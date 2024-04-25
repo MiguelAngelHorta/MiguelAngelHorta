@@ -70,13 +70,14 @@
 # 🚀 My Projects :
 1. [AWS Serverless Web Application & APIs](#serverless-web-application)
 2. [AWS Cloud Resume Challenge](#aws-cloud-resume-challenge)
-3. [Security Control Inventory App (frontend + backend)](#security-control-inventory-app-backend)
-4. [Security Control Inventory App (frontend)](#security-control-inventory-app-frontend)
-5. [Cisco Packet Tracer - Home Lab](#cisco-packet-tracer)
-6. [GRC Assessment - gsheets](#grc-assessment-gsheets)
-7. [GRC Assessment - retool](#grc-assessment-retool)
-8. [Access Review - gsheets](#access-review-gsheets)
-9. [Control Inventory - gsheets](#control-inventory-gsheets)
+3. [Risk & Control Matrix App]((#racm)
+4. [Security Control Inventory App (frontend + backend)](#security-control-inventory-app-backend)
+5. [Security Control Inventory App (frontend)](#security-control-inventory-app-frontend)
+6. [Cisco Packet Tracer - Home Lab](#cisco-packet-tracer)
+7. [GRC Assessment - gsheets](#grc-assessment-gsheets)
+8. [GRC Assessment - retool](#grc-assessment-retool)
+9. [Access Review - gsheets](#access-review-gsheets)
+10. [Control Inventory - gsheets](#control-inventory-gsheets)
 
 <a name="serverless-web-application"></a>
 
@@ -93,6 +94,12 @@
 - [resume.miguelhorta.com](http://resume.miguelhorta.com)
 - The [AWS cloud resume challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/) is a project that helps you build a cloud-based resume website while demonstrating fundamental cloud skills across various domains such as AWS certification, HTML/CSS styling, JavaScript, databases, APIs, Python coding, testing, infrastructure as code, source control, and CI/CD for front and back ends. The challenge includes deploying a resume site on Amazon S3, and adding features such as HTTPS, DNS, and a visitor counter.
   - <img src="https://github.com/MiguelAngelHorta/AWS-Cloud-Resume/assets/106134627/d4e938e6-765a-448c-8d93-c11d4524bd76" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
+
+<a name="racm"></a>
+
+## [Risk & Control Matrix](https://github.com/MiguelAngelHorta/AWS-Cloud-Resume/tree/main)
+- Build a Risk & Control Matrix with multiple views using Python for backend endpoint routing
+  - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/3c2c71a4-92bb-495b-bc2f-a5dc84699e84" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
 
 <a name="security-control-inventory-app-backend"></a>
 
