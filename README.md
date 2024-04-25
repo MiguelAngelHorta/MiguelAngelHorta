@@ -70,7 +70,7 @@
 # 🚀 My Projects :
 1. [AWS Serverless Web Application & APIs](#serverless-web-application)
 2. [AWS Cloud Resume Challenge](#aws-cloud-resume-challenge)
-3. [Risk & Control Matrix App]((#racm)
+3. [Risk & Control Matrix App](#racm)
 4. [Security Control Inventory App (frontend + backend)](#security-control-inventory-app-backend)
 5. [Security Control Inventory App (frontend)](#security-control-inventory-app-frontend)
 6. [Cisco Packet Tracer - Home Lab](#cisco-packet-tracer)
@@ -97,7 +97,7 @@
 
 <a name="racm"></a>
 
-## [Risk & Control Matrix](https://github.com/MiguelAngelHorta/AWS-Cloud-Resume/tree/main)
+## [Risk & Control Matrix](https://github.com/MiguelAngelHorta/Risk-Control-Matrix)
 - Build a Risk & Control Matrix with multiple views using Python for backend endpoint routing
   - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/3c2c71a4-92bb-495b-bc2f-a5dc84699e84" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
 
