@@ -91,7 +91,6 @@
 
 <a name="API-Data-Display-With-Search"></a>
 
----
 ## [API Data Display With Search](https://github.com/MiguelAngelHorta/API-Data-Display-With-Search)
 - [app.miguelhorta.com](http://app.miguelhorta.com)
 - Fetch & parse data from an API endpoint using python
