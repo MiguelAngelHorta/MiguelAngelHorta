@@ -69,15 +69,16 @@
 
 # 🚀 My Projects :
 1. [AWS Serverless Web Application & APIs](#serverless-web-application)
-2. [AWS Cloud Resume Challenge](#aws-cloud-resume-challenge)
-3. [Risk & Control Matrix App](#racm)
-4. [Security Control Inventory App (frontend + backend)](#security-control-inventory-app-backend)
-5. [Security Control Inventory App (frontend)](#security-control-inventory-app-frontend)
-6. [Cisco Packet Tracer - Home Lab](#cisco-packet-tracer)
-7. [GRC Assessment - gsheets](#grc-assessment-gsheets)
-8. [GRC Assessment - retool](#grc-assessment-retool)
-9. [Access Review - gsheets](#access-review-gsheets)
-10. [Control Inventory - gsheets](#control-inventory-gsheets)
+2. [API Data Display With Search](#API-Data-Display-With-Search)
+3. [AWS Cloud Resume Challenge](#aws-cloud-resume-challenge)
+4. [Risk & Control Matrix App](#racm)
+5. [Security Control Inventory App (frontend + backend)](#security-control-inventory-app-backend)
+6. [Security Control Inventory App (frontend)](#security-control-inventory-app-frontend)
+7. [Cisco Packet Tracer - Home Lab](#cisco-packet-tracer)
+8. [GRC Assessment - gsheets](#grc-assessment-gsheets)
+9. [GRC Assessment - retool](#grc-assessment-retool)
+10. [Access Review - gsheets](#access-review-gsheets)
+11. [Control Inventory - gsheets](#control-inventory-gsheets)
 
 <a name="serverless-web-application"></a>
 
@@ -87,6 +88,14 @@
 - Security Controls API: https://9ookpuq4tk.execute-api.us-east-1.amazonaws.com/prod/items
 - Build a web-based interface for managing security controls by perform CRUD operations (Create, Read, Update, Delete) on a list of controls stored in dynamodb, with API calls handled via frontend interactions and DynamoDB manipulation facilitated by Lambda functions and API Gateway endpoints.
   - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/b66a098b-ce04-4703-ba50-7ee1a6be7117" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
+
+<a name="API-Data-Display-With-Search"></a>
+
+---
+## [API Data Display With Search](https://github.com/MiguelAngelHorta/API-Data-Display-With-Search)
+- [app.miguelhorta.com](http://app.miguelhorta.com)
+- Fetch & parse data from an API endpoint using python
+  - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/1a82a94a-4f8c-41ea-84e6-0d8dade5943e" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
 
 <a name="aws-cloud-resume-challenge"></a>
 
