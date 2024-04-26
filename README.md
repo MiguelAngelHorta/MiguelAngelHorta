@@ -99,7 +99,7 @@
 
 ## [Risk & Control Matrix](https://github.com/MiguelAngelHorta/Risk-Control-Matrix)
 - Build a Risk & Control Matrix with multiple views using Python for backend endpoint routing
-  - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/3c2c71a4-92bb-495b-bc2f-a5dc84699e84" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
+  - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/53303ca1-6620-410b-945f-315385f7d1bc" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
 
 <a name="security-control-inventory-app-backend"></a>
 
