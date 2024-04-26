@@ -75,10 +75,11 @@
 5. [Security Control Inventory App (frontend + backend)](#security-control-inventory-app-backend)
 6. [Security Control Inventory App (frontend)](#security-control-inventory-app-frontend)
 7. [Cisco Packet Tracer - Home Lab](#cisco-packet-tracer)
-8. [GRC Assessment - gsheets](#grc-assessment-gsheets)
-9. [GRC Assessment - retool](#grc-assessment-retool)
-10. [Access Review - gsheets](#access-review-gsheets)
-11. [Control Inventory - gsheets](#control-inventory-gsheets)
+8. [Random Generator](#random)
+9. [GRC Assessment - gsheets](#grc-assessment-gsheets)
+10. [GRC Assessment - retool](#grc-assessment-retool)
+11. [Access Review - gsheets](#access-review-gsheets)
+12. [Control Inventory - gsheets](#control-inventory-gsheets)
 
 <a name="serverless-web-application"></a>
 
@@ -124,11 +125,19 @@
 
 <a name="cisco-packet-tracer"></a>
 
+
 ## [Cisco Packet Tracer - Home Lab](https://github.com/MiguelAngelHorta/Cisco-Packet-Tracer)
 - 🔨This project entails creating and configuring a simulated home network infrastructure using Cisco Packet Tracer, encompassing tasks such as deploying wireless routers, connecting devices, configuring IP addresses and DNS settings, and testing network connectivity.
   - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/3cb1db9d-1e6e-4d3e-bd55-ec9a0c060003" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
 
-<a name="grc-assessment-gsheets"></a>
+<a name="cisco-packet-tracer"></a>
+
+
+## [Random Generator](https://github.com/MiguelAngelHorta/Random-Generator)
+- This desktop app creates a tkinter GUI application that generates random stoic quotes, compliments, jokes, motivational quotes, and random facts upon button click.
+- <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/9d692ca9-6837-4030-8275-253ac9caf5d4" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
+
+<a name="random"></a>
 
 
 ## [GRC Assessment - gsheets](https://github.com/MiguelAngelHorta/GRC_Assessment/tree/main?tab=readme-ov-file#grc-assessment)
