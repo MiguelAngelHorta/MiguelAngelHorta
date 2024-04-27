@@ -93,7 +93,6 @@
 <a name="API-Data-Display-With-Search"></a>
 
 ## [API Data Display With Search](https://github.com/MiguelAngelHorta/API-Data-Display-With-Search)
-- [app.miguelhorta.com](http://app.miguelhorta.com)
 - Fetch & parse data from an API endpoint using python
   - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/1a82a94a-4f8c-41ea-84e6-0d8dade5943e" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
 
