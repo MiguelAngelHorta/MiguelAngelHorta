@@ -77,10 +77,11 @@
 7. [Cisco Packet Tracer - Home Lab](#cisco-packet-tracer)
 8. [Random Generator](#random)
 9. [Hashicorp Vault Associate Notes](#vault)
-10. [GRC Assessment - gsheets](#grc-assessment-gsheets)
-11. [GRC Assessment - retool](#grc-assessment-retool)
-12. [Access Review - gsheets](#access-review-gsheets)
-13. [Control Inventory - gsheets](#control-inventory-gsheets)
+10. [Kubernetes Notes](#k8)
+11. [GRC Assessment - gsheets](#grc-assessment-gsheets)
+12. [GRC Assessment - retool](#grc-assessment-retool)
+13. [Access Review - gsheets](#access-review-gsheets)
+14. [Control Inventory - gsheets](#control-inventory-gsheets)
 
 <a name="serverless-web-application"></a>
 
@@ -141,6 +142,12 @@
 ## [Hashicorp Vault Associate Notes](https://github.com/MiguelAngelHorta/Vault-Associate-Notes)
 - The Vault Associate certification is for Cloud Engineers specializing in security, development, or operations who know the basic concepts, skills, and use cases associated with HashiCorp Vault.
 - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/78d4b959-91e4-4bfc-8e29-9007de1a2dd9" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
+
+<a name="k8"></a>
+
+## [Kubernetes Notes](https://github.com/MiguelAngelHorta/Kubernetes-Notes)
+- The Kubernetes and Cloud Native Associate (KCNA) exam demonstrates a user’s foundational knowledge and skills in Kubernetes and the wider cloud native ecosystem.
+- <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/feb64f52-f44c-4e4e-8a90-a3956a52f5b4" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
 
 <a name="grc-assessment-gsheets"></a>
 
