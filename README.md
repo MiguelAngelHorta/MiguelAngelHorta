@@ -76,10 +76,11 @@
 6. [Security Control Inventory App (frontend)](#security-control-inventory-app-frontend)
 7. [Cisco Packet Tracer - Home Lab](#cisco-packet-tracer)
 8. [Random Generator](#random)
-9. [GRC Assessment - gsheets](#grc-assessment-gsheets)
-10. [GRC Assessment - retool](#grc-assessment-retool)
-11. [Access Review - gsheets](#access-review-gsheets)
-12. [Control Inventory - gsheets](#control-inventory-gsheets)
+9. [Hashicorp Vault Associate Notes](#vault)
+10. [GRC Assessment - gsheets](#grc-assessment-gsheets)
+11. [GRC Assessment - retool](#grc-assessment-retool)
+12. [Access Review - gsheets](#access-review-gsheets)
+13. [Control Inventory - gsheets](#control-inventory-gsheets)
 
 <a name="serverless-web-application"></a>
 
@@ -129,19 +130,25 @@
 - 🔨This project entails creating and configuring a simulated home network infrastructure using Cisco Packet Tracer, encompassing tasks such as deploying wireless routers, connecting devices, configuring IP addresses and DNS settings, and testing network connectivity.
   - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/3cb1db9d-1e6e-4d3e-bd55-ec9a0c060003" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
 
-<a name="cisco-packet-tracer"></a>
-
+<a name="random"></a>
 
 ## [Random Generator](https://github.com/MiguelAngelHorta/Random-Generator)
 - This desktop app creates a tkinter GUI application that generates random stoic quotes, compliments, jokes, motivational quotes, and random facts upon button click.
 - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/9d692ca9-6837-4030-8275-253ac9caf5d4" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
 
-<a name="random"></a>
+<a name="vault"></a>
+
+## [Hashicorp Vault Associate Notes](https://github.com/MiguelAngelHorta/Vault-Associate-Notes)
+- The Vault Associate certification is for Cloud Engineers specializing in security, development, or operations who know the basic concepts, skills, and use cases associated with HashiCorp Vault.
+- <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/78d4b959-91e4-4bfc-8e29-9007de1a2dd9" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
+
+<a name="grc-assessment-gsheets"></a>
 
 
 ## [GRC Assessment - gsheets](https://github.com/MiguelAngelHorta/GRC_Assessment/tree/main?tab=readme-ov-file#grc-assessment)
 - 🔨 Utilizing Google Apps Script automation for assessment management, involves the creation of a summary database consolidating responses from various tabs.
   - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/2ebb7842-d230-4a8a-b8ec-5180fed2bdf1" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
+  
 <a name="grc-assessment-retool"></a>
 
 
