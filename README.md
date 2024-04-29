@@ -79,8 +79,8 @@
 9. [Random Generator](#random)
 10. [Hashicorp Vault Associate Notes](#vault)
 11. [Kubernetes Notes](#k8)
-12. [GRC Assessment - gsheets](#grc-assessment-gsheets)
-13. [GRC Assessment - retool](#grc-assessment-retool)
+12. [Controls Assessment - gsheets](#grc-assessment-gsheets)
+13. [Controls Assessment - retool](#grc-assessment-retool)
 14. [Access Review - gsheets](#access-review-gsheets)
 15. [Control Inventory - gsheets](#control-inventory-gsheets)
 
@@ -160,14 +160,14 @@
 <a name="grc-assessment-gsheets"></a>
 
 
-## [GRC Assessment - gsheets](https://github.com/MiguelAngelHorta/GRC_Assessment/tree/main?tab=readme-ov-file#grc-assessment)
+## [Controls Assessment - gsheets](https://github.com/MiguelAngelHorta/GRC_Assessment/tree/main?tab=readme-ov-file#grc-assessment)
 - 🔨 Utilizing Google Apps Script automation for assessment management, involves the creation of a summary database consolidating responses from various tabs.
   - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/2ebb7842-d230-4a8a-b8ec-5180fed2bdf1" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
   
 <a name="grc-assessment-retool"></a>
 
 
-## [GRC Assessment - retool](https://github.com/MiguelAngelHorta/Retool-Assessment/tree/main)
+## [Controls Assessment - retool](https://github.com/MiguelAngelHorta/Retool-Assessment/tree/main)
 - 🔨 Implementing automation in retool to create a web application, facilitating score calculations, retrieving mapped assessment data, and updating assessment details.
   - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/372a5456-0390-434e-9bef-8773ca93bfb0" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
 <a name="access-review-gsheets"></a>
