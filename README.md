@@ -74,14 +74,15 @@
 4. [Risk & Control Matrix App](#racm)
 5. [Security Control Inventory App (frontend + backend)](#security-control-inventory-app-backend)
 6. [Security Control Inventory App (frontend)](#security-control-inventory-app-frontend)
-7. [Cisco Packet Tracer - Home Lab](#cisco-packet-tracer)
-8. [Random Generator](#random)
-9. [Hashicorp Vault Associate Notes](#vault)
-10. [Kubernetes Notes](#k8)
-11. [GRC Assessment - gsheets](#grc-assessment-gsheets)
-12. [GRC Assessment - retool](#grc-assessment-retool)
-13. [Access Review - gsheets](#access-review-gsheets)
-14. [Control Inventory - gsheets](#control-inventory-gsheets)
+7. [Vulnerability Scanner](#scanner)
+8. [Cisco Packet Tracer - Home Lab](#cisco-packet-tracer)
+9. [Random Generator](#random)
+10. [Hashicorp Vault Associate Notes](#vault)
+11. [Kubernetes Notes](#k8)
+12. [GRC Assessment - gsheets](#grc-assessment-gsheets)
+13. [GRC Assessment - retool](#grc-assessment-retool)
+14. [Access Review - gsheets](#access-review-gsheets)
+15. [Control Inventory - gsheets](#control-inventory-gsheets)
 
 <a name="serverless-web-application"></a>
 
@@ -124,6 +125,13 @@
 - 🔨 Build a client-side web app with local storage using HTML bootstrap, Javascript, and CSS. Example of app functionality hosted on this [Github Pages Link](https://miguelangelhorta.github.io/Security-Controls-Inventory/)
   - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/ad8a3975-33ab-4eae-8c00-ca87fee93d31" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
 
+<a name="scanner"></a>
+
+
+## [Vulnerability Scanner](https://github.com/MiguelAngelHorta/Vulnerability-Scanner)
+- 🔨This project entails building a python-based web vulnerability scanner with Flask server as a HTTP/Network traffic analyzer
+  - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/ad5ccf4f-9d0e-4dd7-acc0-778d425e98f1" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
+  
 <a name="cisco-packet-tracer"></a>
 
 
