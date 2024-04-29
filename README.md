@@ -79,10 +79,12 @@
 9. [Random Generator](#random)
 10. [Hashicorp Vault Associate Notes](#vault)
 11. [Kubernetes Notes](#k8)
-12. [Controls Assessment - gsheets](#grc-assessment-gsheets)
-13. [Controls Assessment - retool](#grc-assessment-retool)
-14. [Access Review - gsheets](#access-review-gsheets)
-15. [Control Inventory - gsheets](#control-inventory-gsheets)
+12. [AWS Security Notes](#aws-security)
+13. [Greeting App](#greeting)
+14. [Controls Assessment - gsheets](#grc-assessment-gsheets)
+15. [Controls Assessment - retool](#grc-assessment-retool)
+16. [Access Review - gsheets](#access-review-gsheets)
+17. [Control Inventory - gsheets](#control-inventory-gsheets)
 
 <a name="serverless-web-application"></a>
 
@@ -156,6 +158,22 @@
 ## [Kubernetes Notes](https://github.com/MiguelAngelHorta/Kubernetes-Notes)
 - The Kubernetes and Cloud Native Associate (KCNA) exam demonstrates a user’s foundational knowledge and skills in Kubernetes and the wider cloud native ecosystem.
 - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/feb64f52-f44c-4e4e-8a90-a3956a52f5b4" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
+
+## [Hashicorp Vault Associate Notes](https://github.com/MiguelAngelHorta/Vault-Associate-Notes)
+- The Vault Associate certification is for Cloud Engineers specializing in security, development, or operations who know the basic concepts, skills, and use cases associated with HashiCorp Vault.
+- <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/78d4b959-91e4-4bfc-8e29-9007de1a2dd9" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
+
+<a name="aws-security"></a>
+
+## [AWS Security Notes](https://github.com/MiguelAngelHorta/AWS-Security-Notes)
+- AWS Security Specialty Notes
+- <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/04f51eac-6424-48b5-822d-a4bb3aac5d2f" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
+
+<a name="greeting"></a>
+
+## [Greeting App](https://github.com/MiguelAngelHorta/Greeting-App)
+- This Go application sets up a locally hosted HTTP server on port 8080, serving an HTML file at the root endpoint and responding with a personalized greeting message when accessed through the /greet endpoint with a provided name parameter.
+- <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/0b023655-9023-4bf5-bcb0-3f9495e59cd7" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
 
 <a name="grc-assessment-gsheets"></a>
 
