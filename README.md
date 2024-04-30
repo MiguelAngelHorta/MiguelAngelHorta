@@ -85,6 +85,7 @@
 15. [Controls Assessment - retool](#grc-assessment-retool)
 16. [Access Review - gsheets](#access-review-gsheets)
 17. [Control Inventory - gsheets](#control-inventory-gsheets)
+18. [Kali Linux](#kali)
 
 <a name="serverless-web-application"></a>
 
@@ -199,6 +200,12 @@
 ## [Control Inventory - gsheets](https://github.com/MiguelAngelHorta/Control-Inventory)
 - 🔨 Employing Google Apps Script and Excel functions to effectively oversee control inventory, facilitating data segmentation for reporting purposes.
   - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/2ebb7842-d230-4a8a-b8ec-5180fed2bdf1" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
+
+<a name="kali"></a>
+
+## [Control Inventory - gsheets]([https://github.com/MiguelAngelHorta/Control-Inventory](https://github.com/MiguelAngelHorta/Kali-Linux))
+- 🔨 Setup Kali linux using UTM or Vmware
+  - <img src="[https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/2ebb7842-d230-4a8a-b8ec-5180fed2bdf1](https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/90eb9716-579b-405f-97ef-1b6374964d1d)" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
 
 <!---
 MiguelAngelHorta/MiguelAngelHorta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
