@@ -77,15 +77,16 @@
 7. [Vulnerability Scanner](#scanner)
 8. [Cisco Packet Tracer - Home Lab](#cisco-packet-tracer)
 9. [Random Generator](#random)
-10. [Hashicorp Vault Associate Notes](#vault)
-11. [Kubernetes Notes](#k8)
-12. [AWS Security Notes](#aws-security)
-13. [Greeting App](#greeting)
-14. [Controls Assessment - gsheets](#grc-assessment-gsheets)
-15. [Controls Assessment - retool](#grc-assessment-retool)
-16. [Access Review - gsheets](#access-review-gsheets)
-17. [Control Inventory - gsheets](#control-inventory-gsheets)
-18. [Kali Linux](#kali)
+10. [Password Strength Checker](#password)
+11. [Hashicorp Vault Associate Notes](#vault)
+12. [Kubernetes Notes](#k8)
+13. [AWS Security Notes](#aws-security)
+14. [Greeting App](#greeting)
+15. [Controls Assessment - gsheets](#grc-assessment-gsheets)
+16. [Controls Assessment - retool](#grc-assessment-retool)
+17. [Access Review - gsheets](#access-review-gsheets)
+18. [Control Inventory - gsheets](#control-inventory-gsheets)
+19. [Kali Linux](#kali)
 
 <a name="serverless-web-application"></a>
 
@@ -147,6 +148,14 @@
 ## [Random Generator](https://github.com/MiguelAngelHorta/Random-Generator)
 - This desktop app creates a tkinter GUI application that generates random stoic quotes, compliments, jokes, motivational quotes, and random facts upon button click.
 - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/9d692ca9-6837-4030-8275-253ac9caf5d4" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
+
+<a name="password"></a>
+
+
+## [Password Strength Checker](https://github.com/MiguelAngelHorta/Password-Strength-Checker)
+- Use python for conditional logic to check the strength of a password
+- <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/cbd49b72-278d-4a3b-8c31-f1b7f2984a91" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
+
 
 <a name="vault"></a>
 
