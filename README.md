@@ -68,8 +68,7 @@
 ---
 
 # 🚀 My Projects :
-1. [Security GRC](#grc)
-2. [AWS Serverless Web Application & APIs](#serverless-web-application)
+1. [AWS Serverless Web Application & APIs](#serverless-web-application)
 3. [API Data Display With Search](#API-Data-Display-With-Search)
 4. [AWS Cloud Resume Challenge](#aws-cloud-resume-challenge)
 5. [Risk & Control Matrix App](#racm)
@@ -77,25 +76,21 @@
 7. [Security Control Inventory App (frontend)](#security-control-inventory-app-frontend)
 8. [Vulnerability Scanner](#scanner)
 9. [Cisco Packet Tracer - Home Lab](#cisco-packet-tracer)
-10. [Random Generator](#random)
-11. [Password Strength Checker](#password)
-12. [Hashicorp Vault Associate Notes](#vault)
-13. [Kubernetes Notes](#k8)
-14. [AWS Security Notes](#aws-security)
-15. [Greeting App](#greeting)
-16. [Controls Assessment - gsheets](#grc-assessment-gsheets)
-17. [Controls Assessment - retool](#grc-assessment-retool)
-18. [Access Review - gsheets](#access-review-gsheets)
-19. [Control Inventory - gsheets](#control-inventory-gsheets)
-20. [Kali Linux](#kali)
+10. [Security GRC](#grc)
+11. [Random Generator](#random)
+12. [Password Strength Checker](#password)
+13. [Hashicorp Vault Associate Notes](#vault)
+14. [Kubernetes Notes](#k8)
+15. [AWS Security Notes](#aws-security)
+16. [Greeting App](#greeting)
+17. [Controls Assessment - gsheets](#grc-assessment-gsheets)
+18. [Controls Assessment - retool](#grc-assessment-retool)
+19. [Access Review - gsheets](#access-review-gsheets)
+20. [Control Inventory - gsheets](#control-inventory-gsheets)
+21. [Kali Linux](#kali)
 
 
 ---
-<a name="grc"></a>
-
-## [Security GRC](https://github.com/MiguelAngelHorta/Security-GRC-Governance-Risk-and-Compliance)
-- Security GRC Governance Risk and Compliance
-  - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/f55bfec2-a850-4fc4-96e2-44f368a0e06a" alt="Screenshot" style="width: 600px; height: 300px; max-width: 100%; height: auto;">
 
 <a name="serverless-web-application"></a>
 
@@ -143,9 +138,14 @@
 ## [Vulnerability Scanner](https://github.com/MiguelAngelHorta/Vulnerability-Scanner)
 - 🔨This project entails building a python-based web vulnerability scanner with Flask server as a HTTP/Network traffic analyzer
   - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/ad5ccf4f-9d0e-4dd7-acc0-778d425e98f1" alt="Screenshot" style="width: 600px; height: 300px; max-width: 100%; height: auto;">
+
+<a name="grc"></a>
+
+## [Security GRC](https://github.com/MiguelAngelHorta/Security-GRC-Governance-Risk-and-Compliance)
+- Security GRC Governance Risk and Compliance
+  - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/f55bfec2-a850-4fc4-96e2-44f368a0e06a" alt="Screenshot" style="width: 600px; height: 300px; max-width: 100%; height: auto;">
   
 <a name="cisco-packet-tracer"></a>
-
 
 ## [Cisco Packet Tracer - Home Lab](https://github.com/MiguelAngelHorta/Cisco-Packet-Tracer)
 - 🔨This project entails creating and configuring a simulated home network infrastructure using Cisco Packet Tracer, encompassing tasks such as deploying wireless routers, connecting devices, configuring IP addresses and DNS settings, and testing network connectivity.
