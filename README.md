@@ -18,6 +18,7 @@
 
 
 # 🧏 About Me :
+- 🔒 Committed to leveraging security practices to protect customer data and enhance business trust.
 - 👀 I’m interested in managing information security governance risk & compliance programs by leveraging automation and data engineering concepts to parse, transform, structure, and visualize data.
 - 🧘 My focus lies in architecting process workflows to automate repetitive tasks and evidence collection that contribute to a proactive security posture. 
 - 🌱 My experience pertains to identifying areas for improvements in a security program and designing governance reporting.
