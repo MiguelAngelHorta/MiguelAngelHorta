@@ -96,7 +96,7 @@
 <a name="grc"></a>
 
 ## [Security GRC Engineering](https://github.com/MiguelAngelHorta/Security-GRC-Governance-Risk-and-Compliance)
-- Security GRC Governance Risk and Compliance
+- This repository contains architecture and details regarding GRC governance risk and compliance engineering aimed at building a mature GRC program at an enterprise.
   - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/c3abf6a9-1039-4602-98d2-8e26c28d79b9" alt="Screenshot" style="width: 800px; height: 350px; max-width: 100%; height: auto;">
 
 <a name="serverless-web-application"></a>
