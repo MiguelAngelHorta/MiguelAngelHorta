@@ -69,7 +69,8 @@
 ---
 
 # 🚀 My Projects :
-1. [AWS Serverless Web Application & APIs](#serverless-web-application)
+1. [Security GRC](#grc)
+2. [AWS Serverless Web Application & APIs](#serverless-web-application)
 3. [API Data Display With Search](#API-Data-Display-With-Search)
 4. [AWS Cloud Resume Challenge](#aws-cloud-resume-challenge)
 5. [Risk & Control Matrix App](#racm)
@@ -77,7 +78,6 @@
 7. [Security Control Inventory App (frontend)](#security-control-inventory-app-frontend)
 8. [Vulnerability Scanner](#scanner)
 9. [Cisco Packet Tracer - Home Lab](#cisco-packet-tracer)
-10. [Security GRC](#grc)
 11. [Random Generator](#random)
 12. [Password Strength Checker](#password)
 13. [Hashicorp Vault Associate Notes](#vault)
@@ -92,6 +92,12 @@
 
 
 ---
+
+<a name="grc"></a>
+
+## [Security GRC Engineering](https://github.com/MiguelAngelHorta/Security-GRC-Governance-Risk-and-Compliance)
+- Security GRC Governance Risk and Compliance
+  - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/c3abf6a9-1039-4602-98d2-8e26c28d79b9" alt="Screenshot" style="width: 600px; height: 300px; max-width: 100%; height: auto;">
 
 <a name="serverless-web-application"></a>
 
@@ -131,7 +137,7 @@
 
 ## [Security Control Inventory App (frontend)](https://github.com/MiguelAngelHorta/CRUD-App)
 - 🔨 Build a client-side web app with local storage using HTML bootstrap, Javascript, and CSS. Example of app functionality hosted on this [Github Pages Link](https://miguelangelhorta.github.io/Security-Controls-Inventory/)
-  - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/ad8a3975-33ab-4eae-8c00-ca87fee93d31" alt="Screenshot" style="width: 600px; height: 300px; max-width: 100%; height: auto;">
+  - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/ad8a3975-33ab-4eae-8c00-ca87fee93d31" alt="Screenshot" style="width: 800px; height: 400px; max-width: 100%; height: auto;">
 
 <a name="scanner"></a>
 
@@ -140,12 +146,6 @@
 - 🔨This project entails building a python-based web vulnerability scanner with Flask server as a HTTP/Network traffic analyzer
   - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/ad5ccf4f-9d0e-4dd7-acc0-778d425e98f1" alt="Screenshot" style="width: 600px; height: 300px; max-width: 100%; height: auto;">
 
-<a name="grc"></a>
-
-## [Security GRC](https://github.com/MiguelAngelHorta/Security-GRC-Governance-Risk-and-Compliance)
-- Security GRC Governance Risk and Compliance
-  - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/f55bfec2-a850-4fc4-96e2-44f368a0e06a" alt="Screenshot" style="width: 600px; height: 300px; max-width: 100%; height: auto;">
-  
 <a name="cisco-packet-tracer"></a>
 
 ## [Cisco Packet Tracer - Home Lab](https://github.com/MiguelAngelHorta/Cisco-Packet-Tracer)
