@@ -69,7 +69,7 @@
 ---
 
 # 🚀 My Projects :
-1. [Security GRC](#grc)
+1. [Security GRC Engineering](#grc)
 2. [AWS Serverless Web Application & APIs](#serverless-web-application)
 3. [API Data Display With Search](#API-Data-Display-With-Search)
 4. [AWS Cloud Resume Challenge](#aws-cloud-resume-challenge)
@@ -97,7 +97,7 @@
 
 ## [Security GRC Engineering](https://github.com/MiguelAngelHorta/Security-GRC-Governance-Risk-and-Compliance)
 - Security GRC Governance Risk and Compliance
-  - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/c3abf6a9-1039-4602-98d2-8e26c28d79b9" alt="Screenshot" style="width: 600px; height: 300px; max-width: 100%; height: auto;">
+  - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/c3abf6a9-1039-4602-98d2-8e26c28d79b9" alt="Screenshot" style="width: 800px; height: 350px; max-width: 100%; height: auto;">
 
 <a name="serverless-web-application"></a>
 
