@@ -80,15 +80,16 @@
 9. [Cisco Packet Tracer - Home Lab](#cisco-packet-tracer)
 11. [Random Generator](#random)
 12. [Password Strength Checker](#password)
-13. [Hashicorp Vault Associate Notes](#vault)
-14. [Kubernetes Notes](#k8)
-15. [AWS Security Notes](#aws-security)
-16. [Greeting App](#greeting)
-17. [Controls Assessment - gsheets](#grc-assessment-gsheets)
-18. [Controls Assessment - retool](#grc-assessment-retool)
-19. [Review and Approvals - gsheets](#review-gsheets)
-20. [Control Inventory - gsheets](#control-inventory-gsheets)
-21. [Kali Linux](#kali)
+13. [Data Engineer Data Camp Notes](#date-engineer)
+14. [Hashicorp Vault Associate Notes](#vault)
+15. [Kubernetes Notes](#k8)
+16. [AWS Security Notes](#aws-security)
+17. [Greeting App](#greeting)
+18. [Controls Assessment - gsheets](#grc-assessment-gsheets)
+19. [Controls Assessment - retool](#grc-assessment-retool)
+20. [Review and Approvals - gsheets](#review-gsheets)
+21. [Control Inventory - gsheets](#control-inventory-gsheets)
+22. [Kali Linux](#kali)
 
 
 ---
@@ -165,6 +166,11 @@
 - Use python for conditional logic to check the strength of a password
 - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/cbd49b72-278d-4a3b-8c31-f1b7f2984a91" alt="Screenshot" style="width: 600px; height: 300px; max-width: 100%; height: auto;">
 
+<a name="data-engineer"></a>
+
+## [Data Engineer Data Camp Notes](https://github.com/MiguelAngelHorta/Data-Engineer---Data-Camp)
+- The Vault Associate certification is for Cloud Engineers specializing in security, development, or operations who know the basic concepts, skills, and use cases associated with HashiCorp Vault.
+- <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/572fa064-3501-44ed-9d66-718893cd2b73" alt="Screenshot" style="width: 600px; height: 300px; max-width: 100%; height: auto;">
 
 <a name="vault"></a>
 
