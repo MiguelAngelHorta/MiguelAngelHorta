@@ -178,10 +178,6 @@
 - The Kubernetes and Cloud Native Associate (KCNA) exam demonstrates a user’s foundational knowledge and skills in Kubernetes and the wider cloud native ecosystem.
 - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/feb64f52-f44c-4e4e-8a90-a3956a52f5b4" alt="Screenshot" style="width: 600px; height: 300px; max-width: 100%; height: auto;">
 
-## [Hashicorp Vault Associate Notes](https://github.com/MiguelAngelHorta/Vault-Associate-Notes)
-- The Vault Associate certification is for Cloud Engineers specializing in security, development, or operations who know the basic concepts, skills, and use cases associated with HashiCorp Vault.
-- <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/78d4b959-91e4-4bfc-8e29-9007de1a2dd9" alt="Screenshot" style="width: 600px; height: 300px; max-width: 100%; height: auto;">
-
 <a name="aws-security"></a>
 
 ## [AWS Security Notes](https://github.com/MiguelAngelHorta/AWS-Security-Notes)
