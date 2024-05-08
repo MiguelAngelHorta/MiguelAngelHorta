@@ -80,7 +80,7 @@
 9. [Cisco Packet Tracer - Home Lab](#cisco-packet-tracer)
 11. [Random Generator](#random)
 12. [Password Strength Checker](#password)
-13. [Data Engineer Data Camp Notes](#date-engineer)
+13. [Data Engineer Data Camp Notes](#data-engineer)
 14. [Hashicorp Vault Associate Notes](#vault)
 15. [Kubernetes Notes](#k8)
 16. [AWS Security Notes](#aws-security)
