@@ -168,7 +168,7 @@
 
 <a name="data-engineer"></a>
 
-## [Data Engineer Data Camp Notes](https://github.com/MiguelAngelHorta/Data-Engineer---Data-Camp)
+## [Data Engineer Associate - Data Camp Notes](https://github.com/MiguelAngelHorta/Data-Engineer---Data-Camp)
 - Showcase your ability as a Certified Data Engineer. You will need to collect and pre-process large amounts of data, demonstrating you can get data into a format that is suitable for data users across an organization.
   - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/572fa064-3501-44ed-9d66-718893cd2b73" alt="Screenshot" style="width: 600px; height: 300px; max-width: 100%; height: auto;">
 
