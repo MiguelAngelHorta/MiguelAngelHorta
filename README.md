@@ -86,10 +86,8 @@
 16. [AWS Security Notes](#aws-security)
 17. [Greeting App](#greeting)
 18. [Controls Assessment - gsheets](#grc-assessment-gsheets)
-19. [Controls Assessment - retool](#grc-assessment-retool)
-20. [Review and Approvals - gsheets](#review-gsheets)
-21. [Control Inventory - gsheets](#control-inventory-gsheets)
-22. [Kali Linux](#kali)
+19. [Review and Approvals - gsheets](#review-gsheets)
+20. [Kali Linux](#kali)
 
 
 ---
@@ -206,19 +204,8 @@
 <a name="grc-assessment-retool"></a>
 
 
-## [Controls Assessment - retool](https://github.com/MiguelAngelHorta/Retool-Assessment/tree/main)
-- 🔨 Implementing automation in retool to create a web application, facilitating score calculations, retrieving mapped assessment data, and updating assessment details.
-  - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/372a5456-0390-434e-9bef-8773ca93bfb0" alt="Screenshot" style="width: 600px; height: 300px; max-width: 100%; height: auto;">
-<a name="review-gsheets"></a>
-
 ## [Review and Approvals - gsheets](https://github.com/MiguelAngelHorta/Access-Reviews)
 - 🔨 Leveraging Google Apps Script and Excel functions for review and approval management management, encompassing approval tracking, file organization, and the generation of URLs across multiple tabs.
-  - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/2ebb7842-d230-4a8a-b8ec-5180fed2bdf1" alt="Screenshot" style="width: 600px; height: 300px; max-width: 100%; height: auto;">
-
-<a name="control-inventory-gsheets"></a>
-
-## [Control Inventory - gsheets](https://github.com/MiguelAngelHorta/Control-Inventory)
-- 🔨 Employing Google Apps Script and Excel functions to effectively oversee control inventory, facilitating data segmentation for reporting purposes.
   - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/2ebb7842-d230-4a8a-b8ec-5180fed2bdf1" alt="Screenshot" style="width: 600px; height: 300px; max-width: 100%; height: auto;">
 
 <a name="kali"></a>
