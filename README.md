@@ -1,7 +1,7 @@
 <div align="center">
   <h1>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    Hi, I’m Miguel, Senior GRC Security Engineer
+    Hi, I’m Miguel, GRC Security Engineer
   </h1>
 </div>
 <div align="center">
