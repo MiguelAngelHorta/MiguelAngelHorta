@@ -18,7 +18,7 @@
 
 
 # 🧏 About Me :
-- 🔒 Committed to implementing security measures that protect sensitive data and enhance customer trust.
+- 🔒 Committed to implementing security measures that protect sensitive data and enhance customer trust. 
 - 👀 I’m passionate about managing information security governance risk & compliance programs by leveraging automation and data engineering concepts to parse, transform, structure, and visualize data.
 - 🧘 My focus lies in architecting process workflows to automate repetitive tasks and evidence collection, which contributes to a proactive security posture.
 - 🌱 My experience pertains to identifying areas for improvements in a security program and designing governance reporting.
