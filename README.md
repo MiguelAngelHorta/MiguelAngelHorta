@@ -1,38 +1,27 @@
 <div align="center">
-  <h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    Hi, I’m Miguel, Security GRC Engineer
-  </h1>
-</div>
-<div align="center">
-  <a href="https://www.linkedin.com/in/migz-h/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MiguelAngelHorta&style=flat-square&color=blue" alt=""/>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <h1>Miguel Horta</h1>
+  <p><strong>Security, Compliance & Automation</strong></p>
+  <p>
+    <a href="https://miguelhorta.com">miguelhorta.com</a> ·
+    <a href="https://www.linkedin.com/in/migz-h/">LinkedIn</a>
+  </p>
 </div>
 
-
-# 🧏 About Me : 
-- 🔒 Committed to implementing security measures that protect sensitive data and enhance customer trust. 
-- 👀 I’m passionate about managing information security governance risk & compliance programs by leveraging automation and data engineering concepts to parse, transform, structure, and visualize data.
-- 🧘 My focus lies in architecting process workflows to automate repetitive tasks and evidence collection, which contributes to a proactive security posture.
-- 🌱 My experience pertains to identifying areas for improvements in a security program and designing governance reporting.
-- ☁️ Lately, my curiosity has been captivated by cloud technologies, distributed systems, application building, and configuring workflows.
-- 📫 Reach me via email: miguelhorta408@gmail.com
-  
 ---
 
-### 📕 My Certifications :
+## About
+
+Security GRC Engineer focused on building and scaling compliance automation programs. I design systems that leverage consolidated control frameworks, build automations for any use case, automate evidence collection, and integrate AI into security operations.
+
+---
+
+## Certifications
+
 [![Update badges](https://github.com/MiguelAngelHorta/MiguelAngelHorta/actions/workflows/update-badges.yml/badge.svg)](https://github.com/MiguelAngelHorta/MiguelAngelHorta/actions/workflows/update-badges.yml)
+
 <!--START_SECTION:badges-->
 [![HashiCorp Certified: Vault Associate (002)](https://images.credly.com/size/110x110/images/fd1bf1cf-dc60-4868-b3a3-9b93e8af763c/image.png)](http://www.credly.com/badges/034d90ee-070e-49a8-a56e-9caa62b79a21 "HashiCorp Certified: Vault Associate (002)")
 [![KCNA: Kubernetes and Cloud Native Associate](https://images.credly.com/size/110x110/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](http://www.credly.com/badges/27331a6b-feef-4563-be8b-a640d1922d4f "KCNA: Kubernetes and Cloud Native Associate")
-[![LFS250: Kubernetes and Cloud Native Essentials](https://images.credly.com/size/110x110/images/7404ca0d-98e1-48b6-a2a3-de8d7dcd85b5/blob)](http://www.credly.com/badges/9bb0a80d-f13b-404b-bd8a-bbf8040235a7 "LFS250: Kubernetes and Cloud Native Essentials")
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/47e2e25e-2a97-4576-bc2b-1e4d1e916771 "AWS Certified Solutions Architect – Associate")
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/5336799f-bc04-43f0-b29d-769fa85744ef "AWS Certified Cloud Practitioner")
 [![Certified Information Systems Security Professional (CISSP)](https://images.credly.com/size/110x110/images/6eeb0a98-33cb-4f72-bfc3-f89d65a3286c/image.png)](http://www.credly.com/badges/f5d396ad-a405-4d2b-9db7-d9065094c210 "Certified Information Systems Security Professional (CISSP)")
@@ -40,181 +29,89 @@
 <!--END_SECTION:badges-->
 
 ---
-### :hammer_and_wrench: Languages and Tools :
+
+## Tools
+
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"  title="docker" alt="docker" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"  title="express" alt="express" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"  title="npm" alt="npm" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vault/vault-original-wordmark.svg"  title="vault" alt="vault" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg"  title="jira" alt="jira" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg"  title="postman" alt="postman" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="postman" alt="postman" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg"  title="postman" alt="postman" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vault/vault-original-wordmark.svg" title="Vault" alt="Vault" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
 </div>
 
 ---
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MiguelAngelHorta)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAngelHorta)](https://github.com/anuraghazra/github-readme-stats)
+## Projects
 
+### Security & GRC
 
----
+#### [Security GRC Engineering](https://github.com/MiguelAngelHorta/Security-GRC-Governance-Risk-and-Compliance)
+Architecture and implementation details for building a mature enterprise GRC program — control frameworks, maturity assessments, evidence automation, and third-party risk management.
 
-# 🚀 My Projects :
-1. [Security GRC Engineering](#grc)
-2. [AWS Serverless Web Application & APIs](#serverless-web-application)
-3. [API Data Display With Search](#API-Data-Display-With-Search)
-4. [AWS Cloud Resume Challenge](#aws-cloud-resume-challenge)
-5. [Risk & Control Matrix App](#racm)
-6. [Security Control Inventory App (frontend + backend)](#security-control-inventory-app-backend)
-7. [Security Control Inventory App (frontend)](#security-control-inventory-app-frontend)
-8. [Vulnerability Scanner](#scanner)
-9. [Cisco Packet Tracer - Home Lab](#cisco-packet-tracer)
-11. [Random Generator](#random)
-12. [Password Strength Checker](#password)
-13. [Data Engineer Data Camp Notes](#data-engineer)
-14. [Hashicorp Vault Associate Notes](#vault)
-15. [Kubernetes Notes](#k8)
-16. [AWS Security Notes](#aws-security)
-17. [Greeting App](#greeting)
-18. [Controls Assessment - gsheets](#grc-assessment-gsheets)
-19. [Review and Approvals - gsheets](#review-gsheets)
-20. [Kali Linux](#kali)
+<img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/c3abf6a9-1039-4602-98d2-8e26c28d79b9" alt="GRC Engineering" width="700"/>
 
+#### [Risk & Control Matrix](https://github.com/MiguelAngelHorta/Risk-Control-Matrix)
+Python-based Risk & Control Matrix application with multiple views and backend endpoint routing.
+
+<img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/53303ca1-6620-410b-945f-315385f7d1bc" alt="RACM" width="600"/>
+
+#### [Vulnerability Scanner](https://github.com/MiguelAngelHorta/Vulnerability-Scanner)
+Python-based web vulnerability scanner with Flask server for HTTP/network traffic analysis.
+
+<img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/ad5ccf4f-9d0e-4dd7-acc0-778d425e98f1" alt="Scanner" width="600"/>
 
 ---
 
-<a name="grc"></a>
+### Cloud & Infrastructure
 
-## [Security GRC Engineering](https://github.com/MiguelAngelHorta/Security-GRC-Governance-Risk-and-Compliance)
-- This repository contains architecture and details regarding GRC governance risk and compliance engineering aimed at building a mature GRC program at an enterprise.
-  - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/c3abf6a9-1039-4602-98d2-8e26c28d79b9" alt="Screenshot" style="width: 800px; height: 350px; max-width: 100%; height: auto;">
+#### [AWS Cloud Resume](https://github.com/MiguelAngelHorta/AWS-Cloud-Resume)
+Full-stack serverless resume hosted on AWS: S3 (static hosting), CloudFront (CDN), Route 53 (DNS), ACM (SSL), Lambda (Python API), DynamoDB (visitor counter). Managed with Terraform and GitHub Actions CI/CD.
 
-<a name="serverless-web-application"></a>
+Live at [miguelhorta.com](https://miguelhorta.com)
 
-## [AWS Serverless Web Application](https://github.com/MiguelAngelHorta/Serverless-Web-Application/tree/main)
-- [app.miguelhorta.com](http://app.miguelhorta.com)
-- Security Controls API: https://9ookpuq4tk.execute-api.us-east-1.amazonaws.com/prod/items
-- Build a web-based interface for managing security controls by perform CRUD operations (Create, Read, Update, Delete) on a list of controls stored in dynamodb, with API calls handled via frontend interactions and DynamoDB manipulation facilitated by Lambda functions and API Gateway endpoints.
-  - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/b66a098b-ce04-4703-ba50-7ee1a6be7117" alt="Screenshot" style="width: 600px; height: 300px; max-width: 100%; height: auto;">
+<img src="https://github.com/MiguelAngelHorta/AWS-Cloud-Resume/assets/106134627/d4e938e6-765a-448c-8d93-c11d4524bd76" alt="Cloud Resume" width="600"/>
 
-<a name="API-Data-Display-With-Search"></a>
+#### [AWS Serverless Web Application](https://github.com/MiguelAngelHorta/Serverless-Web-Application/tree/main)
+CRUD web app for managing security controls — DynamoDB backend, Lambda functions, API Gateway, deployed at [app.miguelhorta.com](http://app.miguelhorta.com).
 
-## [API Data Display With Search](https://github.com/MiguelAngelHorta/API-Data-Display-With-Search)
-- Fetch & parse data from an API endpoint using python
-  - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/1a82a94a-4f8c-41ea-84e6-0d8dade5943e" alt="Screenshot" style="width: 600px; height: 300px; max-width: 100%; height: auto;">
+<img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/b66a098b-ce04-4703-ba50-7ee1a6be7117" alt="Serverless App" width="600"/>
 
-<a name="aws-cloud-resume-challenge"></a>
+---
 
-## [AWS Cloud Resume](https://github.com/MiguelAngelHorta/AWS-Cloud-Resume/tree/main)
-- [resume.miguelhorta.com](http://resume.miguelhorta.com)
-- The [AWS cloud resume challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/) is a project that helps you build a cloud-based resume website while demonstrating fundamental cloud skills across various domains such as AWS certification, HTML/CSS styling, JavaScript, databases, APIs, Python coding, testing, infrastructure as code, source control, and CI/CD for front and back ends. The challenge includes deploying a resume site on Amazon S3, and adding features such as HTTPS, DNS, and a visitor counter.
-  - <img src="https://github.com/MiguelAngelHorta/AWS-Cloud-Resume/assets/106134627/d4e938e6-765a-448c-8d93-c11d4524bd76" alt="Screenshot" style="width: 600px; height: 300px; max-width: 100%; height: auto;">
+### Applications
 
-<a name="racm"></a>
+#### [Security Control Inventory (Full-Stack)](https://github.com/MiguelAngelHorta/API-Server)
+Express-based Node.js API server for CRUD operations on security controls. Backend handles API requests with CORS and JSON body parsing middleware.
 
-## [Risk & Control Matrix](https://github.com/MiguelAngelHorta/Risk-Control-Matrix)
-- Build a Risk & Control Matrix with multiple views using Python for backend endpoint routing
-  - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/53303ca1-6620-410b-945f-315385f7d1bc" alt="Screenshot" style="width: 600px; height: 300px; max-width: 100%; height: auto;">
+<img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/4906cf6b-2db7-434b-8825-1e073acbe3d8" alt="API Server" width="600"/>
 
-<a name="security-control-inventory-app-backend"></a>
+#### [Security Control Inventory (Frontend)](https://github.com/MiguelAngelHorta/CRUD-App)
+Client-side security controls app with local storage using HTML, Bootstrap, JavaScript, and CSS. [Live demo](https://miguelangelhorta.github.io/Security-Controls-Inventory/).
 
-## [Security Control Inventory App (frontend + backend)](https://github.com/MiguelAngelHorta/API-Server)
-- 🔨 Build an Express-based Node.js API Server for CRUD Operations with CORS and JSON Body Parsing Middleware. Expand on the client-side web app and set up a backend Node.js server using the Express framework, functioning as the API endpoint to handle client-side CRUD operations.
-  - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/4906cf6b-2db7-434b-8825-1e073acbe3d8" alt="Screenshot" style="width: 600px; height: 300px; max-width: 100%; height: auto;">
+<img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/ad8a3975-33ab-4eae-8c00-ca87fee93d31" alt="CRUD App" width="700"/>
 
+#### [API Data Display With Search](https://github.com/MiguelAngelHorta/API-Data-Display-With-Search)
+Python script to fetch, parse, and search data from API endpoints.
 
-<a name="security-control-inventory-app-frontend"></a>
+<img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/1a82a94a-4f8c-41ea-84e6-0d8dade5943e" alt="API Search" width="600"/>
 
-## [Security Control Inventory App (frontend)](https://github.com/MiguelAngelHorta/CRUD-App)
-- 🔨 Build a client-side web app with local storage using HTML bootstrap, Javascript, and CSS. Example of app functionality hosted on this [Github Pages Link](https://miguelangelhorta.github.io/Security-Controls-Inventory/)
-  - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/ad8a3975-33ab-4eae-8c00-ca87fee93d31" alt="Screenshot" style="width: 800px; height: 400px; max-width: 100%; height: auto;">
+---
 
-<a name="scanner"></a>
+### Automation (Google Apps Script)
 
+#### [Controls Assessment](https://github.com/MiguelAngelHorta/GRC_Assessment/tree/main?tab=readme-ov-file#grc-assessment)
+Google Apps Script automation for assessment management — consolidates responses from multiple tabs into a summary database.
 
-## [Vulnerability Scanner](https://github.com/MiguelAngelHorta/Vulnerability-Scanner)
-- 🔨This project entails building a python-based web vulnerability scanner with Flask server as a HTTP/Network traffic analyzer
-  - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/ad5ccf4f-9d0e-4dd7-acc0-778d425e98f1" alt="Screenshot" style="width: 600px; height: 300px; max-width: 100%; height: auto;">
+<img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/2ebb7842-d230-4a8a-b8ec-5180fed2bdf1" alt="Controls Assessment" width="600"/>
 
-<a name="cisco-packet-tracer"></a>
-
-## [Cisco Packet Tracer - Home Lab](https://github.com/MiguelAngelHorta/Cisco-Packet-Tracer)
-- 🔨This project entails creating and configuring a simulated home network infrastructure using Cisco Packet Tracer, encompassing tasks such as deploying wireless routers, connecting devices, configuring IP addresses and DNS settings, and testing network connectivity.
-  - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/3cb1db9d-1e6e-4d3e-bd55-ec9a0c060003" alt="Screenshot" style="width: 600px; height: 300px; max-width: 100%; height: auto;">
-
-<a name="random"></a>
-
-## [Random Generator](https://github.com/MiguelAngelHorta/Random-Generator)
-- This desktop app creates a tkinter GUI application that generates random stoic quotes, compliments, jokes, motivational quotes, and random facts upon button click.
-- <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/9d692ca9-6837-4030-8275-253ac9caf5d4" alt="Screenshot" style="width: 600px; height: 300px; max-width: 100%; height: auto;">
-
-<a name="password"></a>
-
-
-## [Password Strength Checker](https://github.com/MiguelAngelHorta/Password-Strength-Checker)
-- Use python for conditional logic to check the strength of a password
-- <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/cbd49b72-278d-4a3b-8c31-f1b7f2984a91" alt="Screenshot" style="width: 600px; height: 300px; max-width: 100%; height: auto;">
-
-<a name="data-engineer"></a>
-
-## [Data Engineer Associate - Data Camp Notes](https://github.com/MiguelAngelHorta/Data-Engineer---Data-Camp)
-- Showcase your ability as a Certified Data Engineer. You will need to collect and pre-process large amounts of data, demonstrating you can get data into a format that is suitable for data users across an organization.
-  - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/572fa064-3501-44ed-9d66-718893cd2b73" alt="Screenshot" style="width: 600px; height: 300px; max-width: 100%; height: auto;">
-
-<a name="vault"></a>
-
-## [Hashicorp Vault Associate Notes](https://github.com/MiguelAngelHorta/Vault-Associate-Notes)
-- The Vault Associate certification is for Cloud Engineers specializing in security, development, or operations who know the basic concepts, skills, and use cases associated with HashiCorp Vault.
-- <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/78d4b959-91e4-4bfc-8e29-9007de1a2dd9" alt="Screenshot" style="width: 600px; height: 300px; max-width: 100%; height: auto;">
-
-<a name="k8"></a>
-
-## [Kubernetes Notes](https://github.com/MiguelAngelHorta/Kubernetes-Notes)
-- The Kubernetes and Cloud Native Associate (KCNA) exam demonstrates a user’s foundational knowledge and skills in Kubernetes and the wider cloud native ecosystem.
-- <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/feb64f52-f44c-4e4e-8a90-a3956a52f5b4" alt="Screenshot" style="width: 600px; height: 300px; max-width: 100%; height: auto;">
-
-<a name="aws-security"></a>
-
-## [AWS Security Notes](https://github.com/MiguelAngelHorta/AWS-Security-Notes)
-- AWS Security Specialty Notes
-- <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/04f51eac-6424-48b5-822d-a4bb3aac5d2f" alt="Screenshot" style="width: 600px; height: 300px; max-width: 100%; height: auto;">
-
-<a name="greeting"></a>
-
-## [Greeting App](https://github.com/MiguelAngelHorta/Greeting-App)
-- This Go application sets up a locally hosted HTTP server on port 8080, serving an HTML file at the root endpoint and responding with a personalized greeting message when accessed through the /greet endpoint with a provided name parameter.
-- <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/0b023655-9023-4bf5-bcb0-3f9495e59cd7" alt="Screenshot" style="width: 600px; height: 300px; max-width: 100%; height: auto;">
-
-<a name="grc-assessment-gsheets"></a>
-
-
-## [Controls Assessment - gsheets](https://github.com/MiguelAngelHorta/GRC_Assessment/tree/main?tab=readme-ov-file#grc-assessment)
-- 🔨 Utilizing Google Apps Script automation for assessment management, involves the creation of a summary database consolidating responses from various tabs. 
-  - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/2ebb7842-d230-4a8a-b8ec-5180fed2bdf1" alt="Screenshot" style="width: 700px; height: 300px; max-width: 100%; height: auto;">
-  
-<a name="grc-assessment-retool"></a>
-
-
-## [Review and Approvals - gsheets](https://github.com/MiguelAngelHorta/Access-Reviews)
-- 🔨 Leveraging Google Apps Script and Excel functions for review and approval management management, encompassing approval tracking, file organization, and the generation of URLs across multiple tabs.
-  - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/2ebb7842-d230-4a8a-b8ec-5180fed2bdf1" alt="Screenshot" style="width: 600px; height: 300px; max-width: 100%; height: auto;">
-
-<a name="kali"></a>
-
-## [Kali Linux VM](https://github.com/MiguelAngelHorta/Kali-Linux)
-- 🔨 Setup Kali linux using UTM or Vmware
-  - <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/2ee77833-943b-4da7-809f-c5dbc565a87c" alt="Screenshot" style="width: 600px; height: 300px; max-width: 100%; height: auto;">
-
-<!---
-MiguelAngelHorta/MiguelAngelHorta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### [Review and Approvals](https://github.com/MiguelAngelHorta/Access-Reviews)
+Google Apps Script for review and approval workflows — approval tracking, file organization, and URL generation.
