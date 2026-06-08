@@ -55,18 +55,17 @@ Security GRC Engineer focused on building and scaling compliance automation prog
 1. [Security GRC Engineering](#grc)
 2. [Security Control Inventory (Frontend)](#frontend)
 3. [AI-Compliance-Agent](#ai-agent)
-4. [AWS Cloud Resume](#cloud-resume)
-5. [Security Control Inventory (Full-Stack)](#fullstack)
-6. [Risk & Control Matrix](#racm)
-7. [AWS Serverless Web Application](#serverless)
-8. [Vulnerability Scanner](#scanner)
-9. [API Data Display With Search](#api-search)
-10. [Controls Assessment - Google Apps Script](#controls-assessment)
-11. [Review and Approvals - Google Apps Script](#review-approvals)
+4. [Control Inventory MCP Server](#mcp-server)
+5. [Risk & Control Matrix](#racm)
+6. [Vulnerability Scanner](#scanner)
+7. [AWS Cloud Resume](#cloud-resume)
+8. [AWS Serverless Web Application](#serverless)
+9. [Security Control Inventory (Full-Stack)](#fullstack)
+10. [API Data Display With Search](#api-search)
+11. [Controls Assessment - Google Apps Script](#controls-assessment)
+12. [Review and Approvals - Google Apps Script](#review-approvals)
 
 ---
-
-### Security & GRC
 
 <a name="grc"></a>
 
@@ -84,11 +83,17 @@ Client-side security controls app with local storage using HTML, Bootstrap, Java
 
 <a name="ai-agent"></a>
 
-
 #### [AI-Compliance-Agent](https://github.com/MiguelAngelHorta/AI-Compliance-Agent)
 An AI-powered AWS compliance auditor that scans IAM, S3, and EC2, then reasons about each finding with Claude (via Amazon Bedrock tool use), mapping it to CIS v8 / NIST 800-53 / SOC 2 controls and scoring its contextual risk. A deterministic, auditable policy then routes each finding by escalating critical ones to GitHub Issues with masked identifiers, and acknowledging the rest. It runs locally as a CLI and as a hardened, scheduled CronJob on Kubernetes, exposing run metrics to Prometheus/Grafana.
 
 <img width="1921" height="895" alt="image" src="https://github.com/user-attachments/assets/ed315842-1e90-43cb-929a-6cd844c7fcae" />
+
+<a name="mcp-server"></a>
+
+#### [Control Inventory MCP Server](https://github.com/MiguelAngelHorta/Control-Inventory-MCP-Server)
+An MCP (Model Context Protocol) server that exposes a security control inventory as callable tools, paired with a Python agent (Claude via AWS Bedrock) that answers natural-language GRC questions — mapping a request to the relevant controls, checking their implementation status, and surfacing gaps by deciding which tools to call and chaining them on its own. A hands-on look at the difference between a scripted workflow and an LLM-driven agent.
+
+<img src="https://raw.githubusercontent.com/MiguelAngelHorta/Control-Inventory-MCP-Server/main/docs/control-inventory-mcp.png" alt="Control Inventory MCP Server" width="700"/>
 
 <a name="racm"></a>
 
@@ -104,10 +109,6 @@ Python-based web vulnerability scanner with Flask server for HTTP/network traffi
 
 <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/ad5ccf4f-9d0e-4dd7-acc0-778d425e98f1" alt="Scanner" width="600"/>
 
----
-
-### Cloud & Infrastructure
-
 <a name="cloud-resume"></a>
 
 #### [AWS Cloud Resume](https://github.com/MiguelAngelHorta/AWS-Cloud-Resume)
@@ -120,13 +121,9 @@ Live at [miguelhorta.com](https://miguelhorta.com)
 <a name="serverless"></a>
 
 #### [AWS Serverless Web Application](https://github.com/MiguelAngelHorta/Serverless-Web-Application/tree/main)
-CRUD web app for managing security controls — DynamoDB backend, Lambda functions, API Gateway, deployed at [app.miguelhorta.com](http://app.miguelhorta.com).
+CRUD web app for managing security controls — DynamoDB backend, Lambda functions, and API Gateway.
 
 <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/b66a098b-ce04-4703-ba50-7ee1a6be7117" alt="Serverless App" width="600"/>
-
----
-
-### Applications
 
 <a name="fullstack"></a>
 
@@ -141,10 +138,6 @@ Express-based Node.js API server for CRUD operations on security controls. Backe
 Python script to fetch, parse, and search data from API endpoints.
 
 <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/1a82a94a-4f8c-41ea-84e6-0d8dade5943e" alt="API Search" width="600"/>
-
----
-
-### Automation (Google Apps Script)
 
 <a name="controls-assessment"></a>
 
