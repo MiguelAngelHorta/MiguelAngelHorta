@@ -54,14 +54,15 @@ Security GRC Engineer focused on building and scaling compliance automation prog
 
 1. [Security GRC Engineering](#grc)
 2. [Security Control Inventory (Frontend)](#frontend)
-3. [AWS Cloud Resume](#cloud-resume)
-4. [Security Control Inventory (Full-Stack)](#fullstack)
-5. [Risk & Control Matrix](#racm)
-6. [AWS Serverless Web Application](#serverless)
-7. [Vulnerability Scanner](#scanner)
-8. [API Data Display With Search](#api-search)
-9. [Controls Assessment - Google Apps Script](#controls-assessment)
-10. [Review and Approvals - Google Apps Script](#review-approvals)
+3. [AI-Compliance-Agent](#ai-agent)
+4. [AWS Cloud Resume](#cloud-resume)
+5. [Security Control Inventory (Full-Stack)](#fullstack)
+6. [Risk & Control Matrix](#racm)
+7. [AWS Serverless Web Application](#serverless)
+8. [Vulnerability Scanner](#scanner)
+9. [API Data Display With Search](#api-search)
+10. [Controls Assessment - Google Apps Script](#controls-assessment)
+11. [Review and Approvals - Google Apps Script](#review-approvals)
 
 ---
 
@@ -80,6 +81,14 @@ Architecture and implementation details for building a mature enterprise GRC pro
 Client-side security controls app with local storage using HTML, Bootstrap, JavaScript, and CSS. [Live demo](https://miguelangelhorta.github.io/Security-Controls-Inventory/).
 
 <img src="https://github.com/MiguelAngelHorta/MiguelAngelHorta/assets/106134627/ad8a3975-33ab-4eae-8c00-ca87fee93d31" alt="CRUD App" width="700"/>
+
+<a name="ai-agent"></a>
+
+
+#### [AI-Compliance-Agent](https://github.com/MiguelAngelHorta/AI-Compliance-Agent)
+An AI-powered AWS compliance auditor that scans IAM, S3, and EC2, then reasons about each finding with Claude (via Amazon Bedrock tool use), mapping it to CIS v8 / NIST 800-53 / SOC 2 controls and scoring its contextual risk. A deterministic, auditable policy then routes each finding by escalating critical ones to GitHub Issues with masked identifiers, and acknowledging the rest. It runs locally as a CLI and as a hardened, scheduled CronJob on Kubernetes, exposing run metrics to Prometheus/Grafana.
+
+<img width="1921" height="895" alt="image" src="https://github.com/user-attachments/assets/ed315842-1e90-43cb-929a-6cd844c7fcae" />
 
 <a name="racm"></a>
 
