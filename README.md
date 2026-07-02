@@ -21,10 +21,10 @@ Security GRC Engineer focused on building and scaling compliance automation prog
 
 <!--START_SECTION:badges-->
 [![Linux Essentials Certificate](https://images.credly.com/size/80x80/images/1d36cb36-20fc-4961-8d70-6307c015d1aa/blob)](https://www.credly.com/badges/85e37ca0-2167-4133-a8bb-741146aa7b66)
-[![KCNA: Kubernetes and Cloud Native Associate](https://images.credly.com/size/80x80/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](https://www.credly.com/badges/27331a6b-feef-4563-be8b-a640d1922d4f)
 [![LFS250: Kubernetes and Cloud Native Essentials](https://images.credly.com/size/80x80/images/7404ca0d-98e1-48b6-a2a3-de8d7dcd85b5/blob)](https://www.credly.com/badges/9bb0a80d-f13b-404b-bd8a-bbf8040235a7)
 [![Certified Information Systems Security Professional (CISSP)](https://images.credly.com/size/80x80/images/6eeb0a98-33cb-4f72-bfc3-f89d65a3286c/image.png)](https://www.credly.com/badges/8913e6f6-cc52-4376-ba00-e042cde6c385)
 [![Certified Information Systems Auditor® (CISA)](https://images.credly.com/size/80x80/images/d8b54d17-692a-4151-8e2e-e3c8c1a89ec1/b415cf50edc1955df11b9046c68b7e2debbd41f1.png)](https://www.credly.com/badges/9d6bbe59-44bb-4095-b4df-1b8925f554d7)
+[![KCNA: Kubernetes and Cloud Native Associate](https://images.credly.com/size/80x80/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](https://www.credly.com/badges/27331a6b-feef-4563-be8b-a640d1922d4f)
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/47e2e25e-2a97-4576-bc2b-1e4d1e916771)
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/5336799f-bc04-43f0-b29d-769fa85744ef)
 [![HashiCorp Certified: Vault Associate (002)](https://images.credly.com/size/80x80/images/d5bf51f3-18cd-4a7a-8031-e2e365ebb0ba/blob)](https://www.credly.com/badges/034d90ee-070e-49a8-a56e-9caa62b79a21)
