@@ -86,7 +86,7 @@ Client-side security controls app with local storage using HTML, Bootstrap, Java
 <a name="ai-agent"></a>
 
 #### [AI-Compliance-Agent](https://github.com/MiguelAngelHorta/AI-Compliance-Agent)
-An AI-powered AWS compliance auditor that scans IAM, S3, and EC2, then reasons about each finding with Claude (via Amazon Bedrock tool use), mapping it to CIS v8 / NIST 800-53 / SOC 2 controls and scoring its contextual risk. A deterministic, auditable policy then routes each finding by escalating critical ones to GitHub Issues with masked identifiers, and acknowledging the rest. It runs locally as a CLI and as a hardened, scheduled CronJob on Kubernetes, exposing run metrics to Prometheus/Grafana.
+An AI-powered AWS compliance auditor that scans IAM, S3, and EC2, then reasons about each finding with Claude (via Amazon Bedrock tool use), mapping it to CIS v8 / NIST 800-53 / SOC 2 controls and scoring its contextual risk. A deterministic, auditable policy then routes each finding by escalating critical ones to GitHub Issues with masked identifiers, and acknowledging the rest. It runs locally as a CLI and as a hardened, scheduled CronJob on Kubernetes, exposing run metrics to Prometheus/Grafana. 
 
 <img width="1921" height="895" alt="image" src="https://github.com/user-attachments/assets/ed315842-1e90-43cb-929a-6cd844c7fcae" />
 
